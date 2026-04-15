@@ -1331,7 +1331,7 @@
       </trans-unit>
       <trans-unit id="poD4d98" resname="Reduced Planck constant">
         <source>Reduced Planck constant</source>
-        <target>~Planck konstantea</target>
+        <target>Plancken konstante murriztua</target>
       </trans-unit>
       <trans-unit id="KuOLUS1" resname="Square">
         <source>Square</source>
@@ -1339,15 +1339,15 @@
       </trans-unit>
       <trans-unit id="9DoIqgi" resname="Large circle">
         <source>Large circle</source>
-        <target>~Zirkulu handi bat</target>
+        <target>Zirkulu handi</target>
       </trans-unit>
       <trans-unit id="BRiw3dy" resname="Difference">
         <source>Difference</source>
-        <target>~Diferentzia</target>
+        <target>Diferentzia</target>
       </trans-unit>
       <trans-unit id="BBgv1KF" resname="Not equal">
         <source>Not equal</source>
-        <target>~Ezber ezik</target>
+        <target>Ez berdinak</target>
       </trans-unit>
       <trans-unit id="FLnk95F" resname="Division">
         <source>Division</source>
@@ -1355,35 +1355,35 @@
       </trans-unit>
       <trans-unit id="CpA2lkU" resname="Equivalent">
         <source>Equivalent</source>
-        <target>~Bikotea</target>
+        <target>Baliokidea</target>
       </trans-unit>
       <trans-unit id="uFvEWvW" resname="Dotless i">
         <source>Dotless i</source>
-        <target>~i puntagabea</target>
+        <target>Punturik gabeko i</target>
       </trans-unit>
       <trans-unit id="cJyYeVF" resname="Intersection">
         <source>Intersection</source>
-        <target>~Bilketa</target>
+        <target>Intersekzioa</target>
       </trans-unit>
       <trans-unit id="xSyAuIM" resname="Dotless j">
         <source>Dotless j</source>
-        <target>~j puntagabea</target>
+        <target>Punturik gabeko j</target>
       </trans-unit>
       <trans-unit id="jKfrBDM" resname="Greater than or equal to">
         <source>Greater than or equal to</source>
-        <target>~ handiagoa edo berdina</target>
+        <target>Handiagoa edo berdina</target>
       </trans-unit>
       <trans-unit id="CbLDCyz" resname="Greater than">
         <source>Greater than</source>
-        <target>~ handiagoa</target>
+        <target>Handiagoa</target>
       </trans-unit>
       <trans-unit id="jTjhCem" resname="Less than or equal to">
         <source>Less than or equal to</source>
-        <target>~ txikiagoa edo berdina</target>
+        <target>Txikiagoa edo berdina</target>
       </trans-unit>
       <trans-unit id="ybPoOJO" resname="Less than">
         <source>Less than</source>
-        <target>~ txikiagoa</target>
+        <target>Txikiagoa</target>
       </trans-unit>
       <trans-unit id="_sDp8hs" resname="Multiplication">
         <source>Multiplication</source>
@@ -1391,191 +1391,191 @@
       </trans-unit>
       <trans-unit id="_0FY_tn" resname="Plus-minus">
         <source>Plus-minus</source>
-        <target>~Plus-minus</target>
+        <target>Plus-minus</target>
       </trans-unit>
       <trans-unit id="MRBxrPT" resname="Nabla">
         <source>Nabla</source>
-        <target>~Nabla</target>
+        <target>Nabla</target>
       </trans-unit>
       <trans-unit id="csnCY8d" resname="Not congruent">
         <source>Not congruent</source>
-        <target>~Ez dago bateragarria</target>
+        <target>Ez da kongruentea</target>
       </trans-unit>
       <trans-unit id="YIwUjH5" resname="Not equivalent">
         <source>Not equivalent</source>
-        <target>~Ez da baliokidea</target>
+        <target>Ez da baliokidea</target>
       </trans-unit>
       <trans-unit id="6La.4wl" resname="Not greater than or equal to (slant)">
         <source>Not greater than or equal to (slant)</source>
-        <target>~Ez da handiago edo berdina (eskuila)</target>
+        <target>Ez da handiagoa edo berdina (eskuila)</target>
       </trans-unit>
       <trans-unit id="k6nFPM9" resname="Not greater than or equal to">
         <source>Not greater than or equal to</source>
-        <target>~Ez da handiago edo berdina</target>
+        <target>Ez da handiagoa edo berdina</target>
       </trans-unit>
       <trans-unit id="tCtYe9Q" resname="Not greater than">
         <source>Not greater than</source>
-        <target>~Ez da handiagoa</target>
+        <target>Ez da handiagoa</target>
       </trans-unit>
       <trans-unit id="vLPclOx" resname="Not less than or equal to (slant)">
         <source>Not less than or equal to (slant)</source>
-        <target>~Ez da txikiago edo berdina (eskuila)</target>
+        <target>Ez da txikiagoa edo berdina (eskuila)</target>
       </trans-unit>
       <trans-unit id="cB0naaj" resname="Not less than or equal to">
         <source>Not less than or equal to</source>
-        <target>~Ez da txikiago edo berdina</target>
+        <target>Ez da txikiagoa edo berdina</target>
       </trans-unit>
       <trans-unit id="abaxgwf" resname="Not less than">
         <source>Not less than</source>
-        <target>~Ez da txikiagoa</target>
+        <target>Ez da txikiagoa</target>
       </trans-unit>
       <trans-unit id="bbb9Uia" resname="Not an element of">
         <source>Not an element of</source>
-        <target>~Ez da elementua</target>
+        <target>Ez dagokio</target>
       </trans-unit>
       <trans-unit id="pTfkjNb" resname="Does not precede">
         <source>Does not precede</source>
-        <target>~Ez da aurretiko</target>
+        <target>Aurretik ez</target>
       </trans-unit>
       <trans-unit id="eoJ59O1" resname="Not similar">
         <source>Not similar</source>
-        <target>~Ez da antzekoa</target>
+        <target>Ez da antzekoa</target>
       </trans-unit>
       <trans-unit id="bF3rrNu" resname="Not a subset or equal">
         <source>Not a subset or equal</source>
-        <target>~Ez da azpimultzo edo berdina</target>
+        <target>Azpimultzorik ez edo berdina</target>
       </trans-unit>
       <trans-unit id="neOeJAp" resname="Does not succeed">
         <source>Does not succeed</source>
-        <target>~Ez da jarraitzen</target>
+        <target>Ez da gertatzen</target>
       </trans-unit>
       <trans-unit id="b2devf0" resname="Parallel">
         <source>Parallel</source>
-        <target>~Parallel</target>
+        <target>Paralelo</target>
       </trans-unit>
       <trans-unit id="J5R97yC" resname="Imaginary part">
         <source>Imaginary part</source>
-        <target>~Irudimen zatia</target>
+        <target>Zati irudikari</target>
       </trans-unit>
       <trans-unit id="OFe9tEx" resname="Real part">
         <source>Real part</source>
-        <target>~Benetako zatia</target>
+        <target>Zati erreal</target>
       </trans-unit>
       <trans-unit id="Y6qvsPu" resname="Perpendicular">
         <source>Perpendicular</source>
-        <target>~Perpendikularra</target>
+        <target>Perpendikularra</target>
       </trans-unit>
       <trans-unit id="jMRFspU" resname="Element of">
         <source>Element of</source>
-        <target>~Elementua</target>
+        <target>Barnekoa da</target>
       </trans-unit>
       <trans-unit id="QHuLMDG" resname="Star product">
         <source>Star product</source>
-        <target>~Izar produktua</target>
+        <target>Produktu izarduna</target>
       </trans-unit>
       <trans-unit id="OoHfC3t" resname="Dot product">
         <source>Dot product</source>
-        <target>~Produktu puntuala</target>
+        <target>Produktu puntua</target>
       </trans-unit>
       <trans-unit id="vEEvQlf" resname="Tensor product">
         <source>Tensor product</source>
-        <target>~Produktu tensoriala</target>
+        <target>Tentsio-produktua</target>
       </trans-unit>
       <trans-unit id="8jc64cW" resname="Proportional to">
         <source>Proportional to</source>
-        <target>~Proportionala da</target>
+        <target>Proportzionala da</target>
       </trans-unit>
       <trans-unit id="WAAnqIj" resname="Bullet">
         <source>Bullet</source>
-        <target>~Bala</target>
+        <target>Bala</target>
       </trans-unit>
       <trans-unit id="U0btdzJ" resname="Diagonal dots">
         <source>Diagonal dots</source>
-        <target>~puntuak diagonaleak</target>
+        <target>Puntu diagonalak</target>
       </trans-unit>
       <trans-unit id="Gr_FqoK" resname="Horizontal dots">
         <source>Horizontal dots</source>
-        <target>~puntuak horizontaleak</target>
+        <target>Puntu horizontalak</target>
       </trans-unit>
       <trans-unit id="YQ1mJG6" resname="Vertical dots">
         <source>Vertical dots</source>
-        <target>~puntuak bertikala</target>
+        <target>Puntu bertikalak</target>
       </trans-unit>
       <trans-unit id="5b434BV" resname="Circled minus">
         <source>Circled minus</source>
-        <target>~Minus zirkulatu</target>
+        <target>Zirkuluan minus</target>
       </trans-unit>
       <trans-unit id=".dFeNVT" resname="Satisfies (models)">
         <source>Satisfies (models)</source>
-        <target>~Egonkortzen du (ereduak)</target>
+        <target>Asetzen du (ereduak)</target>
       </trans-unit>
       <trans-unit id="gfuNm1T" resname="Is deduced (vdash)">
         <source>Is deduced (vdash)</source>
-        <target>~Ondorioztatzen da (vdash)</target>
+        <target>Ondorioztatzen da (vdash)</target>
       </trans-unit>
       <trans-unit id="p0qt6tZ" resname="Similar">
         <source>Similar</source>
-        <target>~Antzekoa</target>
+        <target>Antzekoa</target>
       </trans-unit>
       <trans-unit id="zCobXxz" resname="Subset">
         <source>Subset</source>
-        <target>~Azpikoa</target>
+        <target>Azpimuntzoa</target>
       </trans-unit>
       <trans-unit id="s0LjZaq" resname="Subset or equal">
         <source>Subset or equal</source>
-        <target>~Azpikoa edo berdina</target>
+        <target>Azpimultzoa edo berdina</target>
       </trans-unit>
       <trans-unit id="9raBswJ" resname="Proper subset">
         <source>Proper subset</source>
-        <target>~Azpiko zuzeneko</target>
+        <target>Azpimultzo propio</target>
       </trans-unit>
       <trans-unit id="lDECSLP" resname="Direct sum">
         <source>Direct sum</source>
-        <target>~Bitarteko batura</target>
+        <target>Batura zuzena</target>
       </trans-unit>
       <trans-unit id="JCtvJyu" resname="Superset">
         <source>Superset</source>
-        <target>~Guztizkoa</target>
+        <target>Supermultzoa</target>
       </trans-unit>
       <trans-unit id="pVZQ.I6" resname="Superset or equal">
         <source>Superset or equal</source>
-        <target>~Guztizkoa edo berdina</target>
+        <target>Supermultzoa edo berdina</target>
       </trans-unit>
       <trans-unit id="p2fL7kT" resname="Small right triangle">
         <source>Small right triangle</source>
-        <target>~Eskuin txikia</target>
+        <target>Eskuineko triangelu txikia</target>
       </trans-unit>
       <trans-unit id="S579Rh." resname="Large triangle">
         <source>Large triangle</source>
-        <target>~Triangelu handiagoa</target>
+        <target>Triangelu handia</target>
       </trans-unit>
       <trans-unit id="d8.c0Ph" resname="Large inverted triangle">
         <source>Large inverted triangle</source>
-        <target>~Triangelu handiagoa alderantzizkoa</target>
+        <target>Alderantzizko triangelu handia</target>
       </trans-unit>
       <trans-unit id="GKDCwnE" resname="Small left triangle">
         <source>Small left triangle</source>
-        <target>~Txiki ezkerreko triangelua</target>
+        <target>Ezkerreko triangelu txikia</target>
       </trans-unit>
       <trans-unit id="OdWyh_F" resname="Union">
         <source>Union</source>
-        <target>~Batasuna</target>
+        <target>Batasuna</target>
       </trans-unit>
       <trans-unit id="aPCXwTR" resname="Measured angle">
         <source>Measured angle</source>
-        <target>~Neurtutako angelua</target>
+        <target>Neurtutako angelua</target>
       </trans-unit>
       <trans-unit id="bE8ERWC" resname="Sets">
         <source>Sets</source>
-        <target>~Multzoak</target>
+        <target>Multzoak</target>
       </trans-unit>
       <trans-unit id="apd8EII" resname="Complex numbers">
         <source>Complex numbers</source>
-        <target>~Zenbaki konplexuak</target>
+        <target>Zenbaki konplexuak</target>
       </trans-unit>
       <trans-unit id="8BAw2YB" resname="Empty set">
         <source>Empty set</source>
-        <target>~Ez-oinarria</target>
+        <target>Multzo hutsa</target>
       </trans-unit>
       <trans-unit id="4eXzNrk" resname="Integers">
         <source>Integers</source>
