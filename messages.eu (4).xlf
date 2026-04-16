@@ -14207,15 +14207,15 @@
       </trans-unit>
       <trans-unit id="cjn5upt" resname="No rubric rows could be imported from the CSV.">
         <source>No rubric rows could be imported from the CSV.</source>
-        <target>~Ez da errubrika-errenkadik inportatu CSV-tik.</target>
+        <target>Ezin izan da errubrikarik inportatu CSVtik.</target>
       </trans-unit>
       <trans-unit id="texkvu1" resname="Assessment criteria">
         <source>Assessment criteria</source>
-        <target>~Ebaluazio-irizpideak</target>
+        <target>Ebaluazio-irizpideak</target>
       </trans-unit>
       <trans-unit id="3fv6fc9" resname="Performance level">
         <source>Performance level</source>
-        <target>~Errendimendu-maila</target>
+        <target>Jardun-maila</target>
       </trans-unit>
       <trans-unit id="yww2mk8" resname="There are unsaved changes in this row. Close and lose them?">
         <source>There are unsaved changes in this row. Close and lose them?</source>
