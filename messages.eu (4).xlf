@@ -14219,23 +14219,23 @@
       </trans-unit>
       <trans-unit id="yww2mk8" resname="There are unsaved changes in this row. Close and lose them?">
         <source>There are unsaved changes in this row. Close and lose them?</source>
-        <target>~Errenkada honetan gorde gabeko aldaketak daude. Itxi eta galdu?</target>
+        <target>Errenkada honetan gorde gabeko aldaketak daude. Itxi eta galdu?</target>
       </trans-unit>
       <trans-unit id="1fagz03" resname="First row">
         <source>First row</source>
-        <target>~Lehen errenkada</target>
+        <target>Lehen errenkada</target>
       </trans-unit>
       <trans-unit id="0pb9n19" resname="There are unsaved changes in this column. Close and lose them?">
         <source>There are unsaved changes in this column. Close and lose them?</source>
-        <target>~Zutabe honetan gorde gabeko aldaketak daude. Itxi eta galdu?</target>
+        <target>Zutabe honetan gorde gabeko aldaketak daude. Itxi eta galdu?</target>
       </trans-unit>
       <trans-unit id="xoy487x" resname="Complete the following rubric">
         <source>Complete the following rubric</source>
-        <target>~Bete hurrengo errubrika</target>
+        <target>Bete hurrengo errubrika</target>
       </trans-unit>
       <trans-unit id="ub82ubi" resname="Imported rubric">
         <source>Imported rubric</source>
-        <target>~Inportatutako errubrika</target>
+        <target>Inportatutako errubrika</target>
       </trans-unit>
     </body>
   </file>
