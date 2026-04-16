@@ -1579,159 +1579,159 @@
       </trans-unit>
       <trans-unit id="4eXzNrk" resname="Integers">
         <source>Integers</source>
-        <target>~Zenbaki osoak</target>
+        <target>Osoak</target>
       </trans-unit>
       <trans-unit id="4G_kgk9" resname="Natural numbers">
         <source>Natural numbers</source>
-        <target>~Zenbaki naturala</target>
+        <target>Zenbaki naturalak</target>
       </trans-unit>
       <trans-unit id="8TmClYf" resname="Rational numbers">
         <source>Rational numbers</source>
-        <target>~Zenbaki errazionalak</target>
+        <target>Zenbaki arrazionalak</target>
       </trans-unit>
       <trans-unit id="sszl1rE" resname="Real numbers">
         <source>Real numbers</source>
-        <target>~Zenbaki errealak</target>
+        <target>Zenbaki errealak</target>
       </trans-unit>
       <trans-unit id="H_iI8sY" resname="Logic">
         <source>Logic</source>
-        <target>~Logika</target>
+        <target>Logika</target>
       </trans-unit>
       <trans-unit id="6mRFOJi" resname="Conjunction">
         <source>Conjunction</source>
-        <target>~Konjuntzia</target>
+        <target>Konjuntzioa</target>
       </trans-unit>
       <trans-unit id="PqzUq3E" resname="Disjunction">
         <source>Disjunction</source>
-        <target>~Disjuntzia</target>
+        <target>Disjuntzioa</target>
       </trans-unit>
       <trans-unit id="ZjgoXTu" resname="Equivalence">
         <source>Equivalence</source>
-        <target>~Ekvivalentzia</target>
+        <target>Baliokidetasuna</target>
       </trans-unit>
       <trans-unit id="bmCTC9Z" resname="Exists">
         <source>Exists</source>
-        <target>~Existitzen da</target>
+        <target>Existitzen da</target>
       </trans-unit>
       <trans-unit id="VcIN6G5" resname="Implication">
         <source>Implication</source>
-        <target>~Inplikazioa</target>
+        <target>Inplikazioa</target>
       </trans-unit>
       <trans-unit id="tQNbhAe" resname="Negation">
         <source>Negation</source>
-        <target>~Negazioa</target>
+        <target>Negazioa</target>
       </trans-unit>
       <trans-unit id="0Bi3hvk" resname="Does not exist">
         <source>Does not exist</source>
-        <target>~Ez da existitzen</target>
+        <target>Ez da existitzen</target>
       </trans-unit>
       <trans-unit id="rkU3C7A" resname="Not for all">
         <source>Not for all</source>
-        <target>~Ez da guztientzat</target>
+        <target>Ez da guztientzat</target>
       </trans-unit>
       <trans-unit id="08Axn.g" resname="For all">
         <source>For all</source>
-        <target>~Guztientzat</target>
+        <target>Guztientzat</target>
       </trans-unit>
       <trans-unit id="QBRfNKG" resname="Functions">
         <source>Functions</source>
-        <target>~Funtzioak</target>
+        <target>Funtzioak</target>
       </trans-unit>
       <trans-unit id="4qXw4iO" resname="Cosecant">
         <source>Cosecant</source>
-        <target>~Cosekantza</target>
+        <target>Kosekantea</target>
       </trans-unit>
       <trans-unit id="f_24PgK" resname="Cosine">
         <source>Cosine</source>
-        <target>~Cosina</target>
+        <target>Kosenoa</target>
       </trans-unit>
       <trans-unit id="977lpps" resname="Cotangent">
         <source>Cotangent</source>
-        <target>~Kotangentea</target>
+        <target>Kotangentea</target>
       </trans-unit>
       <trans-unit id="BMLOadY" resname="Exponential">
         <source>Exponential</source>
-        <target>~Exponentziala</target>
+        <target>Esponentziala</target>
       </trans-unit>
       <trans-unit id="3bArSP6" resname="Logarithm">
         <source>Logarithm</source>
-        <target>~Logaritmoa</target>
+        <target>Logaritmoa</target>
       </trans-unit>
       <trans-unit id="2aZGSBw" resname="Natural logarithm">
         <source>Natural logarithm</source>
-        <target>~Logaritmo naturala</target>
+        <target>Logaritmo naturala</target>
       </trans-unit>
       <trans-unit id="v5ycRIL" resname="Square root">
         <source>Square root</source>
-        <target>~Square root</target>
+        <target>Erro karratua</target>
       </trans-unit>
       <trans-unit id="4ghVVNO" resname="Nth root">
         <source>Nth root</source>
-        <target>~N. atzeko erroa</target>
+        <target>N. erroa</target>
       </trans-unit>
       <trans-unit id="7w4Di5j" resname="Secant">
         <source>Secant</source>
-        <target>~Secante</target>
+        <target>Sekantea</target>
       </trans-unit>
       <trans-unit id="F2SJ9iL" resname="Sine">
         <source>Sine</source>
-        <target>~Sine</target>
+        <target>Sinua</target>
       </trans-unit>
       <trans-unit id="e20Vd86" resname="Tangent">
         <source>Tangent</source>
-        <target>~Tangente</target>
+        <target>Tangente</target>
       </trans-unit>
       <trans-unit id="HZdwGu2" resname="Calculus">
         <source>Calculus</source>
-        <target>~ Kalkulu</target>
+        <target>Kalkulua</target>
       </trans-unit>
       <trans-unit id="8yKuIDl" resname="Large coproduct">
         <source>Large coproduct</source>
-        <target>~Handitzezko koproduktu handiagoa</target>
+        <target>Koproduktu handia</target>
       </trans-unit>
       <trans-unit id="tosUq9F" resname="Derivative">
         <source>Derivative</source>
-        <target>~Deribatu</target>
+        <target>Deribatua</target>
       </trans-unit>
       <trans-unit id="GWFRx0M" resname="Partial derivative">
         <source>Partial derivative</source>
-        <target>~Deribatu partziala</target>
+        <target>Deribatu partziala</target>
       </trans-unit>
       <trans-unit id="4CO1kPU" resname="Definite integral">
         <source>Definite integral</source>
-        <target>~Integral zehatzik</target>
+        <target>Integral mugatua</target>
       </trans-unit>
       <trans-unit id="3Ax0IO6" resname="Double integral">
         <source>Double integral</source>
-        <target>~Integral bikoitza</target>
+        <target>Integral bikoitza</target>
       </trans-unit>
       <trans-unit id="Jr4TBzV" resname="Indefinite integral">
         <source>Indefinite integral</source>
-        <target>~Integral ez-zehatza</target>
+        <target>Integral mugagabea</target>
       </trans-unit>
       <trans-unit id="1Pp0bl." resname="Triple integral">
         <source>Triple integral</source>
-        <target>~Integral hirukoitza</target>
+        <target>Integral hirukoitza</target>
       </trans-unit>
       <trans-unit id="mP2oqw0" resname="Limit">
         <source>Limit</source>
-        <target>~Muga</target>
+        <target>Muga</target>
       </trans-unit>
       <trans-unit id="jjkUyDB" resname="Large logical product">
         <source>Large logical product</source>
-        <target>~Produktu logiko handia</target>
+        <target>Produktu logiko handia</target>
       </trans-unit>
       <trans-unit id="XEsTcQz" resname="Large tensor product">
         <source>Large tensor product</source>
-        <target>~Tensor produktu handia</target>
+        <target>Produktu tentsorial handia</target>
       </trans-unit>
       <trans-unit id="SKPq7WJ" resname="Product">
         <source>Product</source>
-        <target>~Produktu</target>
+        <target>Produktua</target>
       </trans-unit>
       <trans-unit id="yTyeCqe" resname="Large direct sum">
         <source>Large direct sum</source>
-        <target>~Bikoitza zuzena handia</target>
+        <target>Zuzeneko batura handia</target>
       </trans-unit>
       <trans-unit id="4BAotc9" resname="Large logical sum">
         <source>Large logical sum</source>
