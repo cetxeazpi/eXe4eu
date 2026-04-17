@@ -1735,15 +1735,15 @@
       </trans-unit>
       <trans-unit id="4BAotc9" resname="Large logical sum">
         <source>Large logical sum</source>
-        <target>~Bikoitza logiko handia</target>
+        <target>Batuketa logiko handia</target>
       </trans-unit>
       <trans-unit id="ZgomIcF" resname="Summation">
         <source>Summation</source>
-        <target>~Batzuketa</target>
+        <target>Batuketa</target>
       </trans-unit>
       <trans-unit id="GL7oE7j" resname="Large disjoint union">
         <source>Large disjoint union</source>
-        <target>~Batasun banaketa handia</target>
+        <target>Lotura disjuntu handiaa</target>
       </trans-unit>
       <trans-unit id="IN_eh7P" resname="Arrows">
         <source>Arrows</source>
@@ -1751,343 +1751,343 @@
       </trans-unit>
       <trans-unit id="Xa1CHji" resname="Right-left harpoons">
         <source>Right-left harpoons</source>
-        <target>~Eskuma-eskuin harpoinak</target>
+        <target>Eskuin-ezker arpoiak</target>
       </trans-unit>
       <trans-unit id="gcF1pNI" resname="Left-right harpoons">
         <source>Left-right harpoons</source>
-        <target>~Ezker-eskuin harpoinak</target>
+        <target>Ezker-eskuin arpoiak</target>
       </trans-unit>
       <trans-unit id="maHhFvm" resname="Right harpoon down">
         <source>Right harpoon down</source>
-        <target>~Harpoia eskuma behera</target>
+        <target>Eskuin arpoia behean</target>
       </trans-unit>
       <trans-unit id="Rglg8kr" resname="Right harpoon up">
         <source>Right harpoon up</source>
-        <target>~Harpoia eskuma gora</target>
+        <target>Eskuin arpoia goian</target>
       </trans-unit>
       <trans-unit id="Ndl9_n9" resname="Left harpoon down">
         <source>Left harpoon down</source>
-        <target>~Harpoia ezkerra behera</target>
+        <target>Ezker arpoia behean</target>
       </trans-unit>
       <trans-unit id="JE49rzP" resname="Left harpoon up">
         <source>Left harpoon up</source>
-        <target>~Harpoia ezkerra gora</target>
+        <target>Ezker arpoia goian</target>
       </trans-unit>
       <trans-unit id="K1Prp5v" resname="Double arrow">
         <source>Double arrow</source>
-        <target>~ gezia bikoitza</target>
+        <target>Gezi bikoitza</target>
       </trans-unit>
       <trans-unit id="UoIDZfr" resname="Long equivalence">
         <source>Long equivalence</source>
-        <target>~Baterako berdintasuna</target>
+        <target>Baliokidetasun luzea</target>
       </trans-unit>
       <trans-unit id="okBpgji" resname="Down arrow">
         <source>Down arrow</source>
-        <target>~Behera gezia</target>
+        <target>Gezia behera</target>
       </trans-unit>
       <trans-unit id="V6Dm6uX" resname="Up arrow">
         <source>Up arrow</source>
-        <target>~Gora gezia</target>
+        <target>Gezia gora</target>
       </trans-unit>
       <trans-unit id="2xUlg0C" resname="Right loop arrow">
         <source>Right loop arrow</source>
-        <target>~Gezia eskuineko bira</target>
+        <target>Eskuineko begizta gezia</target>
       </trans-unit>
       <trans-unit id="f6KOQNs" resname="Right circular arrow">
         <source>Right circular arrow</source>
-        <target>~Gezia biraketa zirkularra</target>
+        <target>Eskuineko gezi zirkularra</target>
       </trans-unit>
       <trans-unit id="1cgD7N9" resname="Arrow with text below">
         <source>Arrow with text below</source>
-        <target>~Gezi batekin behean</target>
+        <target>Testua behean duen gezia</target>
       </trans-unit>
       <trans-unit id="rtCVSEI" resname="Arrow with text above">
         <source>Arrow with text above</source>
-        <target>~Gezi batekin goian</target>
+        <target>Testua goian duen gezia</target>
       </trans-unit>
       <trans-unit id="2xsg9dy" resname="Arrow with text above and below">
         <source>Arrow with text above and below</source>
-        <target>~Gezi batekin goian eta behean</target>
+        <target>Testua goian eta behean duen gezia</target>
       </trans-unit>
       <trans-unit id="fkj1H3d" resname="Right curve arrow">
         <source>Right curve arrow</source>
-        <target>~Eskuma kurbatu gezi bat</target>
+        <target>Eskuineko gezi kurbatua</target>
       </trans-unit>
       <trans-unit id="ghYfksM" resname="Left curve arrow">
         <source>Left curve arrow</source>
-        <target>~Ezker kurbatu gezi bat</target>
+        <target>Ezkerreko gezi kurbatua</target>
       </trans-unit>
       <trans-unit id="OSmpSwj" resname="Right arrow">
         <source>Right arrow</source>
-        <target>~Eskuma gezi bat</target>
+        <target>Eskuineko geziat</target>
       </trans-unit>
       <trans-unit id="CDES.6M" resname="Right arrow with tail">
         <source>Right arrow with tail</source>
-        <target>~Ezkerreko gezi batekin ezpatak</target>
+        <target>Ezkerreko gezia buztanarekin</target>
       </trans-unit>
       <trans-unit id="9FPEQH2" resname="Double down arrow">
         <source>Double down arrow</source>
-        <target>~Behera bideratutako gezi bikoitza</target>
+        <target>Gezi bikoitza behean</target>
       </trans-unit>
       <trans-unit id="xlsET7u" resname="Double up arrow">
         <source>Double up arrow</source>
-        <target>~Goian bideratutako gezi bikoitza</target>
+        <target>Gezi bikoitza goian</target>
       </trans-unit>
       <trans-unit id="yoaHldo" resname="Double vertical arrow">
         <source>Double vertical arrow</source>
-        <target>~Bikoitza bertikala gezi</target>
+        <target>Gezi bikoitz bertikala</target>
       </trans-unit>
       <trans-unit id="WEYcQUx" resname="Left arrow">
         <source>Left arrow</source>
-        <target>~Ezkerreko gezia</target>
+        <target>Ezkerreko gezia</target>
       </trans-unit>
       <trans-unit id="9zggaxq" resname="Left arrow (gets)">
         <source>Left arrow (gets)</source>
-        <target>~Ezkerreko gezia (lortzen duena)</target>
+        <target>Ezkerreko gezia (jasotzen du)</target>
       </trans-unit>
       <trans-unit id=".Jp_O9K" resname="Long arrow">
         <source>Long arrow</source>
-        <target>~Gezia luzea</target>
+        <target>Gezi luzea</target>
       </trans-unit>
       <trans-unit id="UA7JlpH" resname="Long double arrow">
         <source>Long double arrow</source>
-        <target>~Gezia bikoitza luzea</target>
+        <target>Gezia bikoitz luzea</target>
       </trans-unit>
       <trans-unit id="Sn28UKM" resname="Long left arrow">
         <source>Long left arrow</source>
-        <target>~Ezkerreko gezia luzea</target>
+        <target>Ezkerreko gezi luzea</target>
       </trans-unit>
       <trans-unit id="jPW2wyM" resname="Northeast arrow">
         <source>Northeast arrow</source>
-        <target>~Ekialdeko eta ipar aldeko gezia</target>
+        <target>Ipar-ekialdeko gezia</target>
       </trans-unit>
       <trans-unit id="k1bApHV" resname="Northwest arrow">
         <source>Northwest arrow</source>
-        <target>~Ipar-mendebaldeko gezia</target>
+        <target>Ipar-mendebaldeko gezia</target>
       </trans-unit>
       <trans-unit id="qNp__o7" resname="Wiggly right arrow">
         <source>Wiggly right arrow</source>
-        <target>~Ezkerrera astindutako gezia</target>
+        <target>Eskuineko gezi ondulatua</target>
       </trans-unit>
       <trans-unit id="lkkmVGo" resname="Southeast arrow">
         <source>Southeast arrow</source>
-        <target>~Hego-ekialdeko gezia</target>
+        <target>Hego-ekialdeko gezia</target>
       </trans-unit>
       <trans-unit id="uBaayuf" resname="Southwest arrow">
         <source>Southwest arrow</source>
-        <target>~Hego-mendebaldeko gezia</target>
+        <target>Hego-mendebaldeko gezia</target>
       </trans-unit>
       <trans-unit id="EG4om2D" resname="Vector arrow">
         <source>Vector arrow</source>
-        <target>~Bektore gezi</target>
+        <target>Bektore gezia</target>
       </trans-unit>
       <trans-unit id="KXK8RKN" resname="Double up arrows">
         <source>Double up arrows</source>
-        <target>~Bi itxura gezi bikoitzak</target>
+        <target>Gezi bikoitzak goian</target>
       </trans-unit>
       <trans-unit id="YAv_HJC" resname="Double right arrows">
         <source>Double right arrows</source>
-        <target>~Eskuineko gezi bikoitzak</target>
+        <target>Eskuineko gezi bikoitzak</target>
       </trans-unit>
       <trans-unit id="FFbwCDG" resname="Implies">
         <source>Implies</source>
-        <target>~Implyatzen du</target>
+        <target>Inplikatzen du</target>
       </trans-unit>
       <trans-unit id="d9955iR" resname="Reverse implies">
         <source>Reverse implies</source>
-        <target>~Imply itzuli</target>
+        <target>Alderantzizko inplikazioa</target>
       </trans-unit>
       <trans-unit id="yjheIGP" resname="Long implies">
         <source>Long implies</source>
-        <target>~Imply luze</target>
+        <target>Inplikazio luzea</target>
       </trans-unit>
       <trans-unit id="P0qDWYI" resname="Injection">
         <source>Injection</source>
-        <target>~Injekzioa</target>
+        <target>Injekzioa</target>
       </trans-unit>
       <trans-unit id="_JShhBV" resname="Long mapping">
         <source>Long mapping</source>
-        <target>~Mapa luzea</target>
+        <target>Mapaketa luzea</target>
       </trans-unit>
       <trans-unit id="HAJ4vVG" resname="Mapsto">
         <source>Mapsto</source>
-        <target>~Mapsto</target>
+        <target>Mapstoa</target>
       </trans-unit>
       <trans-unit id="ShJlzWG" resname="Not implies right">
         <source>Not implies right</source>
-        <target>~Ez du eskubidea implyatzen</target>
+        <target>Ez du eskuina inplikatzen</target>
       </trans-unit>
       <trans-unit id="VFADSQc" resname="Not implies left">
         <source>Not implies left</source>
-        <target>~Ez du esan nahi ezkerra dela</target>
+        <target>Ez du ezkerra inplikatzen</target>
       </trans-unit>
       <trans-unit id="8wTneYj" resname="Vector">
         <source>Vector</source>
-        <target>~Bektorea</target>
+        <target>Bektorea</target>
       </trans-unit>
       <trans-unit id="FYKYcbP" resname="Matrices">
         <source>Matrices</source>
-        <target>~Matricak</target>
+        <target>Matrizeak</target>
       </trans-unit>
       <trans-unit id="3GgwCo9" resname="2x2 determinant">
         <source>2x2 determinant</source>
-        <target>~2x2 determinantzia</target>
+        <target>2x2 determinantzailea</target>
       </trans-unit>
       <trans-unit id="Dxi8FII" resname="2x2 matrix">
         <source>2x2 matrix</source>
-        <target>~2x2 matrizea</target>
+        <target>2x2 matrizea</target>
       </trans-unit>
       <trans-unit id="mZlwn9N" resname="2x2 matrix with brackets">
         <source>2x2 matrix with brackets</source>
-        <target>~2x2 matrizea parentesisekin</target>
+        <target>2x2 matrizea parentesiekin</target>
       </trans-unit>
       <trans-unit id="v6_miUM" resname="3x3 matrix">
         <source>3x3 matrix</source>
-        <target>~3x3 matrizea</target>
+        <target>3x3 matrizea</target>
       </trans-unit>
       <trans-unit id="ReICqF0" resname="Systems">
         <source>Systems</source>
-        <target>~Sistema</target>
+        <target>Sistemak</target>
       </trans-unit>
       <trans-unit id="JA0wraK" resname="System of 3 equations with array">
         <source>System of 3 equations with array</source>
-        <target>~3 ekuazioetako sistema array-rekin</target>
+        <target>3 ekuazioko sistema matrizeekin</target>
       </trans-unit>
       <trans-unit id="xfdx9Ua" resname="System with array">
         <source>System with array</source>
-        <target>~Sistema array-rekin</target>
+        <target>Sistema matrizearekin</target>
       </trans-unit>
       <trans-unit id="MkSc4Hv" resname="Decorations">
         <source>Decorations</source>
-        <target>~Decorazioak</target>
+        <target>Dekorazioak</target>
       </trans-unit>
       <trans-unit id="Jvv1d6U" resname="Bar">
         <source>Bar</source>
-        <target>~Barra</target>
+        <target>Barra</target>
       </trans-unit>
       <trans-unit id="YTg6AgY" resname="Double dot">
         <source>Double dot</source>
-        <target>~Doble puntua</target>
+        <target>Puntu bikoitza</target>
       </trans-unit>
       <trans-unit id="U98wkKb" resname="Dot">
         <source>Dot</source>
-        <target>~Puntua</target>
+        <target>Puntua</target>
       </trans-unit>
       <trans-unit id="Gsf3ntf" resname="Overline">
         <source>Overline</source>
-        <target>~Luzea</target>
+        <target>Gainbarra</target>
       </trans-unit>
       <trans-unit id="6wJb8b6" resname="Hat">
         <source>Hat</source>
-        <target>~Txapela</target>
+        <target>Txapela</target>
       </trans-unit>
       <trans-unit id="pXdkmeH" resname="Wide hat">
         <source>Wide hat</source>
-        <target>~Txapela zabaldua</target>
+        <target>Txapel zabala</target>
       </trans-unit>
       <trans-unit id="waOdF6U" resname="Tilde">
         <source>Tilde</source>
-        <target>~Tildea</target>
+        <target>Tildea</target>
       </trans-unit>
       <trans-unit id="cPxBcId" resname="Annotations">
         <source>Annotations</source>
-        <target>~Azpimarratzearen</target>
+        <target>Anotazioak</target>
       </trans-unit>
       <trans-unit id="O_DHQ3p" resname="Insert text">
         <source>Insert text</source>
-        <target>~Idatzi testua sartu</target>
+        <target>Sartu testua</target>
       </trans-unit>
       <trans-unit id="2OG93.D" resname="Cross out with X">
         <source>Cross out with X</source>
-        <target>~Markatu X batez</target>
+        <target>X-arekin tatxatu</target>
       </trans-unit>
       <trans-unit id="S6xrJt." resname="Cross out">
         <source>Cross out</source>
-        <target>~Markatu</target>
+        <target>Tatxatu gurutzean</target>
       </trans-unit>
       <trans-unit id="n4.QYz1" resname="Cancel term">
         <source>Cancel term</source>
-        <target>~Utzi epea</target>
+        <target>Ezabatu terminoa</target>
       </trans-unit>
       <trans-unit id="7sZuzMj" resname="Cancel and annotate">
         <source>Cancel and annotate</source>
-        <target>~Utzi eta anotatu</target>
+        <target>Ezabatu eta idatzi</target>
       </trans-unit>
       <trans-unit id="nLp5oym" resname="Text below">
         <source>Text below</source>
-        <target>~Testu behean</target>
+        <target>Testu behean</target>
       </trans-unit>
       <trans-unit id="ivFn3H2" resname="Text above">
         <source>Text above</source>
-        <target>~Testu goian</target>
+        <target>Testua goian</target>
       </trans-unit>
       <trans-unit id="ZKgEbfK" resname="Text formatting">
         <source>Text formatting</source>
-        <target>~Testu formateaketa</target>
+        <target>Testu-formatua</target>
       </trans-unit>
       <trans-unit id="knVPcTG" resname="Tiny text">
         <source>Tiny text</source>
-        <target>~Testu txikia</target>
+        <target>Testu oso txikia</target>
       </trans-unit>
       <trans-unit id="u4Mz8gs" resname="Script size text">
         <source>Script size text</source>
-        <target>~Script tamaina testua</target>
+        <target>Script tamainako testua</target>
       </trans-unit>
       <trans-unit id="KPMHiIf" resname="Small text">
         <source>Small text</source>
-        <target>~Testu txikia</target>
+        <target>Testu txikia</target>
       </trans-unit>
       <trans-unit id="6WOADdb" resname="Normal size text">
         <source>Normal size text</source>
-        <target>~Testu tamaina normala</target>
+        <target>Testu tamaina normala</target>
       </trans-unit>
       <trans-unit id="A4PW2eq" resname="Large text">
         <source>Large text</source>
-        <target>~Testu handiagoa</target>
+        <target>Testu handia</target>
       </trans-unit>
       <trans-unit id="B3vnaJp" resname="Larger text">
         <source>Larger text</source>
-        <target>~Testu handiagoagoa</target>
+        <target>Testu handiagoa</target>
       </trans-unit>
       <trans-unit id="f5RgnTP" resname="Very large text">
         <source>Very large text</source>
-        <target>~Testu oso handiagoa</target>
+        <target>Testu oso handia</target>
       </trans-unit>
       <trans-unit id="U33cqMv" resname="Huge text">
         <source>Huge text</source>
-        <target>~Testu handiegia</target>
+        <target>Testu izugarri handia</target>
       </trans-unit>
       <trans-unit id="TRj6FQx" resname="Extra large text">
         <source>Extra large text</source>
-        <target>~Testu handiegia (Huger)</target>
+        <target>Testu erraldoia (Huger)</target>
       </trans-unit>
       <trans-unit id="cn6n9qo" resname="Blackboard bold">
         <source>Blackboard bold</source>
-        <target>~Eskola taula beltza</target>
+        <target>Arbelezko letra lodia</target>
       </trans-unit>
       <trans-unit id="_jCqQRd" resname="Math bold">
         <source>Math bold</source>
-        <target>~Matematika lodia</target>
+        <target>Letra lodi matematikoa</target>
       </trans-unit>
       <trans-unit id="D3SztgJ" resname="Calligraphic">
         <source>Calligraphic</source>
-        <target>~Kaligrafikoa</target>
+        <target>Kaligrafikoa</target>
       </trans-unit>
       <trans-unit id="WoeHzkK" resname="Gothic">
         <source>Gothic</source>
-        <target>~Gotikoa</target>
+        <target>Gotikoa</target>
       </trans-unit>
       <trans-unit id="aNBK_Ip" resname="Math italic">
         <source>Math italic</source>
-        <target>~Matematika italikoa</target>
+        <target>Etzanera matematikoa</target>
       </trans-unit>
       <trans-unit id="fXrbOjv" resname="Upright (math roman)">
         <source>Upright (math roman)</source>
-        <target>~Matematika erromanikoa</target>
+        <target>Estandarra (ez etzana)</target>
       </trans-unit>
       <trans-unit id="O_wl2LD" resname="Typographic bold">
         <source>Typographic bold</source>
-        <target>~Tipografiko loditua</target>
+        <target>Letra lodi tipografikoa</target>
       </trans-unit>
       <trans-unit id="UZGwG.U" resname="Italic">
         <source>Italic</source>
@@ -2095,11 +2095,11 @@
       </trans-unit>
       <trans-unit id="tPzgyNe" resname="Monospace">
         <source>Monospace</source>
-        <target>~Monospace</target>
+        <target>Espazio bakarrekoa</target>
       </trans-unit>
       <trans-unit id="anN2Yt5" resname="Plain text">
         <source>Plain text</source>
-        <target>~Testu arrunta</target>
+        <target>Testu laua</target>
       </trans-unit>
       <trans-unit id="VjYOput" resname="Color">
         <source>Color</source>
@@ -2111,11 +2111,11 @@
       </trans-unit>
       <trans-unit id="rPtyjFe" resname="Lowercase alpha">
         <source>Lowercase alpha</source>
-        <target>~alpha minuskula</target>
+        <target>Alfa xehea</target>
       </trans-unit>
       <trans-unit id="T03I8.Y" resname="Lowercase beta">
         <source>Lowercase beta</source>
-        <target>~beta minuskula</target>
+        <target>Beta xehea</target>
       </trans-unit>
       <trans-unit id="JR9q_Sr" resname="Lowercase chi">
         <source>Lowercase chi</source>
