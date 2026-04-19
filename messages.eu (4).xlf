@@ -12011,7 +12011,7 @@
       </trans-unit>
       <trans-unit id="4_HMslq" resname="Change the text of the tabs adding a title to each Heading 2 with the &quot;Insert/Edit Attributes&quot; option:">
         <source>Change the text of the tabs adding a title to each Heading 2 with the "Insert/Edit Attributes" option:</source>
-        <target>~Aldatu fitxategiaren testua eta gehitu izenburua bakoitzari 2. mailako tituluarekin "Sartu/Editatu atributuak" aukera erabiliz:</target>
+        <target>Aldatu fitxen testua, eta gehitu izenburu bat 2. epigrafe bakoitzari "Txertatu/Editatu atributuak" aukerarekin:</target>
       </trans-unit>
       <trans-unit id="uuyq_8U" resname="Please write the Content">
         <source>Please write the Content</source>
@@ -12267,15 +12267,15 @@
       </trans-unit>
       <trans-unit id="bdkckew" resname="Select the AI that will be selected by default when editing iDevices.">
         <source>Select the AI that will be selected by default when editing iDevices.</source>
-        <target>~Hautatu IA erabiltzailearen lehenetsia bezala editatzen denean.</target>
+        <target>Hautatu iDevice-ak editatzean lehenespenez hautatuko den AA.</target>
       </trans-unit>
       <trans-unit id="ym3r8bv" resname="Hide page title">
         <source>Hide page title</source>
-        <target>~Ezkutatu orriaren izenburua</target>
+        <target>Ezkutatu orriaren izenburua</target>
       </trans-unit>
       <trans-unit id="jpr5hr4" resname="Include MathJax (advanced features)">
         <source>Include MathJax (advanced features)</source>
-        <target>~Ezkutatu orrialdearen izena</target>
+        <target>Sartu MathJax (ezaugarri aurreratuak)</target>
       </trans-unit>
       <trans-unit id="x22lyt6" resname="Formulas are rendered even if this is disabled. Enable this option to include the full MathJax library in exports (about 8 MB) for advanced features such as accessibility tools and contextual menus.">
         <source>Formulas are rendered even if this is disabled. Enable this option to include the full MathJax library in exports (about 8 MB) for advanced features such as accessibility tools and contextual menus.</source>
