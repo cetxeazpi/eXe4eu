@@ -13019,11 +13019,11 @@
       </trans-unit>
       <trans-unit id="ygr39q7" resname="Error validating links">
         <source>Error validating links</source>
-        <target>~rrorea loturak egiaztatzean</target>
+        <target>Errorea loturak egiaztatzean</target>
       </trans-unit>
       <trans-unit id="bl20ry1" resname="No broken links to export">
         <source>No broken links to export</source>
-        <target>~Ez dago lotura haustenik esportatzeko</target>
+        <target>Ez dago lotura hautsirik esportatzeko</target>
       </trans-unit>
       <trans-unit id="hxmruro" resname="Click to open resource in new window">
         <source>Click to open resource in new window</source>
@@ -13039,11 +13039,11 @@
       </trans-unit>
       <trans-unit id="3b8hrc5" resname="Error opening resource">
         <source>Error opening resource</source>
-        <target>~Errorea webgunea irekitzean</target>
+        <target>Errorea webgunea irekitzean</target>
       </trans-unit>
       <trans-unit id="1c28t18" resname="No resources to export">
         <source>No resources to export</source>
-        <target>~Ez dago esportatzeko baliabiderik</target>
+        <target>Ez dago esportatzeko baliabiderik</target>
       </trans-unit>
       <trans-unit id="jocxbe6" resname="Failed to download the style">
         <source>Failed to download the style</source>
