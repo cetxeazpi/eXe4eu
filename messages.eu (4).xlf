@@ -13963,223 +13963,223 @@
       </trans-unit>
       <trans-unit id="nw2ju0x" resname="Competency framework">
         <source>Competency framework</source>
-        <target>~Eskema gaitasuna</target>
+        <target>Konpetentzien esparrua</target>
       </trans-unit>
       <trans-unit id="847hidr" resname="Selection granularity">
         <source>Selection granularity</source>
-        <target>~Aukeraketa granula</target>
+        <target>Hautespen-granularitatea</target>
       </trans-unit>
       <trans-unit id="s6zmizn" resname="Competences">
         <source>Competences</source>
-        <target>~Gaitasunak</target>
+        <target>Konpetentziak</target>
       </trans-unit>
       <trans-unit id="gslpuz1" resname="Levels">
         <source>Levels</source>
-        <target>~Mailak</target>
+        <target>Mailak</target>
       </trans-unit>
       <trans-unit id="8r01o8z" resname="Indicators">
         <source>Indicators</source>
-        <target>~Indikadoreak</target>
+        <target>Indikadoreak</target>
       </trans-unit>
       <trans-unit id="b2lr7vb" resname="Search indicators">
         <source>Search indicators</source>
-        <target>~Indikadoreak bilatu</target>
+        <target>Indikadoreak bilatu</target>
       </trans-unit>
       <trans-unit id="6o0j58f" resname="Search by area, competence, indicator...">
         <source>Search by area, competence, indicator...</source>
-        <target>~Erlazioa, gaitasuna, indicador... bidez bilatu</target>
+        <target>Arloaren, konpetentziaren, adierazlearen, ... arabera bilatu</target>
       </trans-unit>
       <trans-unit id="1sxji3p" resname="Filter by level">
         <source>Filter by level</source>
-        <target>~Maila bidez iragazi</target>
+        <target>Maila bidez iragazi</target>
       </trans-unit>
       <trans-unit id="a7pfxsl" resname="Toggle fullscreen">
         <source>Toggle fullscreen</source>
-        <target>~Pantaila osoa aktibatu/desaktibatu</target>
+        <target>Pantaila osoa aktibatu/desaktibatu</target>
       </trans-unit>
       <trans-unit id="u9avdk8" resname="Reset selection">
         <source>Reset selection</source>
-        <target>~Aukeraketaren lehentasuna berrezarri</target>
+        <target>Aukeraketa berrezarri</target>
       </trans-unit>
       <trans-unit id="bifd7i4" resname="Preview summary">
         <source>Preview summary</source>
-        <target>~Laburpenaren aurrebista</target>
+        <target>Laburpenaren aurrebista</target>
       </trans-unit>
       <trans-unit id="j6p8ni3" resname="DigCompEdu framework (fullscreen)">
         <source>DigCompEdu framework (fullscreen)</source>
-        <target>~DigCompEdu Marko (pantaila osoa)</target>
+        <target>DigCompEdu esparrua (pantaila osoa)</target>
       </trans-unit>
       <trans-unit id="dw2dtw7" resname="Selection summary preview">
         <source>Selection summary preview</source>
-        <target>~Aukeraketaren laburpenaren aurrebista</target>
+        <target>Laburpenaren aukeraketaren aurrebista</target>
       </trans-unit>
       <trans-unit id="ekeqgpd" resname="Examples:">
         <source>Examples:</source>
-        <target>~Adibideak:</target>
+        <target>Adibideak:</target>
       </trans-unit>
       <trans-unit id="d4ct7q8" resname="No items selected.">
         <source>No items selected.</source>
-        <target>~Ez dago elementurik hautatuta.</target>
+        <target>Ez dago elementurik hautatuta.</target>
       </trans-unit>
       <trans-unit id="43bztuz" resname="Selected items: ">
         <source>Selected items: </source>
-        <target>~Hautatutako elementuak: </target>
+        <target>Hautatutako elementuak: </target>
       </trans-unit>
       <trans-unit id="f2iordj" resname="Area of">
         <source>Area of</source>
-        <target>~Gunea</target>
+        <target>...-ren gunea</target>
       </trans-unit>
       <trans-unit id="33a8sw0" resname="and ">
         <source>and </source>
-        <target>~eta</target>
+        <target>eta</target>
       </trans-unit>
       <trans-unit id="rb7aiqb" resname="indicator">
         <source>indicator</source>
-        <target>~indikadorea</target>
+        <target>indikadorea</target>
       </trans-unit>
       <trans-unit id="h0uw3og" resname="level">
         <source>level</source>
-        <target>~maila</target>
+        <target>maila</target>
       </trans-unit>
       <trans-unit id="x8cjtc6" resname="Unable to change framework. The previous data will remain loaded.">
         <source>Unable to change framework. The previous data will remain loaded.</source>
-        <target>~Ez da markoa aldatu ahal izan. Aurreko datuak mantenduko dira.</target>
+        <target>Ezin da esparrua aldatu. Aurreko datuak mantenduko dira.</target>
       </trans-unit>
       <trans-unit id="3uypnwv" resname="Font color">
         <source>Font color</source>
-        <target>~Testuaren kolorea</target>
+        <target>Testuaren kolorea</target>
       </trans-unit>
       <trans-unit id="licv2gu" resname="Import content">
         <source>Import content</source>
-        <target>~Edukia inportatu</target>
+        <target>Edukia inportatu</target>
       </trans-unit>
       <trans-unit id="756xxal" resname="Open in new tab">
         <source>Open in new tab</source>
-        <target>~Ireki fitxa berrian</target>
+        <target>Ireki fitxa berrian</target>
       </trans-unit>
       <trans-unit id="paufk23" resname="Open preview in new tab">
         <source>Open preview in new tab</source>
-        <target>~Ireki aurrebista fitxa berrian</target>
+        <target>Ireki aurrebista fitxa berrian</target>
       </trans-unit>
       <trans-unit id="iddfumd" resname="Unpin preview">
         <source>Unpin preview</source>
-        <target>~Askatu aurrebista</target>
+        <target>Desainguratu aurrebista</target>
       </trans-unit>
       <trans-unit id="17j14h6" resname="Refresh preview">
         <source>Refresh preview</source>
-        <target>~Eguneratu aurrebista</target>
+        <target>Eguneratu aurrebista</target>
       </trans-unit>
       <trans-unit id="0v55nre" resname="Content preview">
         <source>Content preview</source>
-        <target>~Edukiaren aurrebista</target>
+        <target>Edukiaren aurrebista</target>
       </trans-unit>
       <trans-unit id="g0pbm7a" resname="Pin preview">
         <source>Pin preview</source>
-        <target>~Ainguratu aurrebista</target>
+        <target>Ainguratu aurrebista</target>
       </trans-unit>
       <trans-unit id="ud8ekt3" resname="Pin preview to layout">
         <source>Pin preview to layout</source>
-        <target>~Ainguratu aurrebista diseinura</target>
+        <target>Ainguratu aurrebista</target>
       </trans-unit>
       <trans-unit id="h69zf3b" resname="Import (.elpx…)">
         <source>Import (.elpx…)</source>
-        <target>~Inportatu (.elpx…)</target>
+        <target>Inportatu (.elpx…)</target>
       </trans-unit>
       <trans-unit id="qbsekk0" resname="Download as">
         <source>Download as</source>
-        <target>~Deskargatu honela</target>
+        <target>Deskargatu honela</target>
       </trans-unit>
       <trans-unit id="y28ca74" resname="0 iDevices">
         <source>0 iDevices</source>
-        <target>~0 iDevices</target>
+        <target>0 iDevice</target>
       </trans-unit>
       <trans-unit id="17auca4" resname="Proprietary license">
         <source>Proprietary license</source>
-        <target>~Jabetza lizentzia</target>
+        <target>Jabetzaren lizentzia</target>
       </trans-unit>
       <trans-unit id="orwnr56" resname="Not appropriate">
         <source>Not appropriate</source>
-        <target>~Ez dagokiona</target>
+        <target>Ez dagokio</target>
       </trans-unit>
       <trans-unit id="xlo8n1g" resname="Public domain">
         <source>Public domain</source>
-        <target>~Domeinu publikoa</target>
+        <target>Domeinu publikoa</target>
       </trans-unit>
       <trans-unit id="4lfqivc" resname="%1 iDevices">
         <source>%1 iDevices</source>
-        <target>~%1 iDevices</target>
+        <target>%1 iDevice</target>
       </trans-unit>
       <trans-unit id="bl4727m" resname="creative commons: cc0 1.0">
         <source>creative commons: cc0 1.0</source>
-        <target>~creative commons: cc0 1.0</target>
+        <target>creative commons: cc0 1.0</target>
       </trans-unit>
       <trans-unit id="q5qceu4" resname="Skip to content">
         <source>Skip to content</source>
-        <target>~Joan edukira</target>
+        <target>Joan edukira</target>
       </trans-unit>
       <trans-unit id="rfky6jl" resname="User not found. This may be because this person has not accessed eXeLearning yet and is not registered in the system. Ask them to log in before sharing.">
         <source>User not found. This may be because this person has not accessed eXeLearning yet and is not registered in the system. Ask them to log in before sharing.</source>
-        <target>~Erabiltzailea ez da aurkitu. Baliteke pertsona honek oraindik eXeLearning-era sartu ez izana eta sisteman erregistratuta ez egotea. Eskatu ezazu saioa hasteko partekatu aurretik.</target>
+        <target>Ez da erabiltzailerik aurkitu. Hau izan daiteke pertsona hau oraindik ez delako eXeLearningera sartu eta ez dagoelako sisteman erregistratuta. Eskatu saioa hasteko, partekatu aurretik.</target>
       </trans-unit>
       <trans-unit id="9gn1aen" resname="Temporary files detected">
         <source>Temporary files detected</source>
-        <target>~Aldi baterako fitxategiak detektatuta</target>
+        <target>Aldi baterako fitxategiak detektatuta</target>
       </trans-unit>
       <trans-unit id="h02ejc5" resname="Some files in this content use blob: links, which only work on this page. If you paste this elsewhere, images or files may be missing. To reuse content with files, add them from the File Manager or clone the iDevice.">
         <source>Some files in this content use blob: links, which only work on this page. If you paste this elsewhere, images or files may be missing. To reuse content with files, add them from the File Manager or clone the iDevice.</source>
-        <target>~Eduki honetako fitxategi batzuek blob: estekak erabiltzen dituzte, orrialde honetan soilik funtzionatzen dutenak. Beste leku batean itsatzen baduzu, baliteke irudiak edo fitxategiak faltatzea. Fitxategiak dituen edukia berrerabiltzeko, gehitu itzazu Fitxategi-kudeatzailetik edo klonatu iDevice-a.</target>
+        <target>Eduki honetako fitxategi batzuek blob: estekak erabiltzen dituzte, orrialde honetan soilik funtzionatuko dutenak. Beste leku batean itsatzen baduzu, baliteke irudiak edo fitxategiak faltatzea. Fitxategiak dituen edukia berrerabiltzeko, gehitu itzazu Fitxategi-kudeatzailetik edo klonatu iDevice-a.</target>
       </trans-unit>
       <trans-unit id="fxd1d6n" resname="Caption Text">
         <source>Caption Text</source>
-        <target>~Azpitituluaren testua</target>
+        <target>Argazki-oinaren testua</target>
       </trans-unit>
       <trans-unit id="sxnlush" resname="Caption Link">
         <source>Caption Link</source>
-        <target>~Azpitituluaren esteka</target>
+        <target>Argazki-oinaren esteka</target>
       </trans-unit>
       <trans-unit id="simqeyn" resname="Predefined classes">
         <source>Predefined classes</source>
-        <target>~Aurrez definitutako klaseak</target>
+        <target>Lehenetsitako klaseak</target>
       </trans-unit>
       <trans-unit id="r0i72e1" resname="Current style classes">
         <source>Current style classes</source>
-        <target>~Uneko estiloaren klaseak</target>
+        <target>Uneko estiloaren klaseak</target>
       </trans-unit>
       <trans-unit id="atbpe78" resname="Close without saving">
         <source>Close without saving</source>
-        <target>~Itxi gabe utzi nahi duzu</target>
+        <target>Gorde gabe itxi</target>
       </trans-unit>
       <trans-unit id="u313fkb" resname="Could not be checked: HTTP content is blocked on HTTPS pages.">
         <source>Could not be checked: HTTP content is blocked on HTTPS pages.</source>
-        <target>~Ezin izan da egiaztatu: HTTP edukia blokeatuta dago HTTPS orrialdeetan.</target>
+        <target>Ezin izan da egiaztatu: HTTP edukia blokeatuta dago HTTPS orrialdeetan.</target>
       </trans-unit>
       <trans-unit id="69v4nt9" resname="You can only add one Rubric iDevice per page.">
         <source>You can only add one Rubric iDevice per page.</source>
-        <target>~Orrialde bakoitzeko Errubrika iDevice bat bakarrik gehi dezakezu.</target>
+        <target>Orri bakoitzeko iDevice errubrika bakarra gehitu dezakezu.</target>
       </trans-unit>
       <trans-unit id="iw66par" resname="CSV import/export">
         <source>CSV import/export</source>
-        <target>~CSV inportazioa/esportazioa</target>
+        <target>CSV inportazioa/esportazioa</target>
       </trans-unit>
       <trans-unit id="tzdhox0" resname="You can import rubric data from CSV files.">
         <source>You can import rubric data from CSV files.</source>
-        <target>~CSV fitxategietatik errubrika-datuak inporta ditzakezu.</target>
+        <target>CSV fitxategietatik errubrika-datuak inporta ditzakezu.</target>
       </trans-unit>
       <trans-unit id="gcv4s41" resname="You can export the rubric in CSV format to integrate it into other compatible activities.">
         <source>You can export the rubric in CSV format to integrate it into other compatible activities.</source>
-        <target>~Errubrika CSV formatuan esporta dezakezu beste jarduera bateragarrietan integratzeko.</target>
+        <target>Errubrika CSV formatuan esporta dezakezu beste jarduera bateragarri batzuetan integratzeko.</target>
       </trans-unit>
       <trans-unit id="c7cokku" resname="Export CSV">
         <source>Export CSV</source>
-        <target>~CSV esportatu</target>
+        <target>CSV-a esportatu</target>
       </trans-unit>
       <trans-unit id="svn17bp" resname="Only CSV files are allowed.">
         <source>Only CSV files are allowed.</source>
-        <target>~CSV fitxategiak bakarrik onartzen dira.</target>
+        <target>CSV fitxategiak bakarrik onartzen dira.</target>
       </trans-unit>
       <trans-unit id="4t49pgw" resname="Could not read the selected CSV file.">
         <source>Could not read the selected CSV file.</source>
-        <target>~Ezin izan da hautatutako CSV fitxategia irakurri.</target>
+        <target>Ezin izan da hautatutako CSV fitxategia irakurri.</target>
       </trans-unit>
       <trans-unit id="6ltgkos" resname="Invalid CSV format.">
         <source>Invalid CSV format.</source>
