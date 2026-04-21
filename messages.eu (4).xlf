@@ -13027,15 +13027,15 @@
       </trans-unit>
       <trans-unit id="hxmruro" resname="Click to open resource in new window">
         <source>Click to open resource in new window</source>
-        <target>~Klikatu ireki webgunean beste leiho batean</target>
+        <target>Klikatu baliabidea irekitzeko beste leiho batean</target>
       </trans-unit>
       <trans-unit id="expxt22" resname="Cannot open resource: Asset manager not available">
         <source>Cannot open resource: Asset manager not available</source>
-        <target>~Ezin da ireki webgunea: baliabide kudeatzailea ez dago erabilgarri</target>
+        <target>Ezin da ireki baliabidea: baliabideen kudeatzailea ez dago erabilgarri</target>
       </trans-unit>
       <trans-unit id="j0ohwan" resname="Cannot open resource: Asset not found">
         <source>Cannot open resource: Asset not found</source>
-        <target>~Ezin da ireki webgunea: baliabidea ez da aurkitu</target>
+        <target>Ezin da ireki baliabidea: baliabidea ez da aurkitu</target>
       </trans-unit>
       <trans-unit id="3b8hrc5" resname="Error opening resource">
         <source>Error opening resource</source>
@@ -13047,407 +13047,407 @@
       </trans-unit>
       <trans-unit id="jocxbe6" resname="Failed to download the style">
         <source>Failed to download the style</source>
-        <target>~Errorea estiloa deskargatzean</target>
+        <target>Errorea estiloa deskargatzean</target>
       </trans-unit>
       <trans-unit id="rhmb76z" resname="File size ({fileSize}) exceeds the maximum allowed size ({maxSize}).">
         <source>File size ({fileSize}) exceeds the maximum allowed size ({maxSize}).</source>
-        <target>~Fitxategiaren tamaina ({fileSize}) gehiegi da onartutako gehienezko tamaina ({maxSize}).</target>
+        <target>Fitxategiaren tamaina ({fileSize}) handiegia da, onartutako gehienezko tamaina: ({maxSize}).</target>
       </trans-unit>
       <trans-unit id="nohmnvq" resname="File too large">
         <source>File too large</source>
-        <target>~Fitxategia handiegia da</target>
+        <target>Fitxategia handiegia da</target>
       </trans-unit>
       <trans-unit id="3ma643h" resname="My Projects">
         <source>My Projects</source>
-        <target>~Nire proiektuak</target>
+        <target>Nire proiektuak</target>
       </trans-unit>
       <trans-unit id="3koug66" resname="Shared with me">
         <source>Shared with me</source>
-        <target>~Elkarrizketan nirekin partekatua</target>
+        <target>Nirekin partekatua</target>
       </trans-unit>
       <trans-unit id="dhjw6wu" resname="No projects have been shared with you yet.">
         <source>No projects have been shared with you yet.</source>
-        <target>~Oraindik ez dira zurekin proiektuak partekatu</target>
+        <target>Oraindik ez dago zurekin partekatutako proiekturik</target>
       </trans-unit>
       <trans-unit id="l85fqn6" resname="Shared by">
         <source>Shared by</source>
-        <target>~Nork partekatu du</target>
+        <target>Nork partekatuta</target>
       </trans-unit>
       <trans-unit id="zh50ibo" resname="Clone to my projects">
         <source>Clone to my projects</source>
-        <target>~Nire proiektuetan kopia bat gorde</target>
+        <target>Nire proiektuetan kopia bat gorde</target>
       </trans-unit>
       <trans-unit id="6mgc7b4" resname="Select all">
         <source>Select all</source>
-        <target>~Denak hautatu</target>
+        <target>Denak hautatu</target>
       </trans-unit>
       <trans-unit id="6cqc538" resname="Delete this project?">
         <source>Delete this project?</source>
-        <target>~Proiektu hau ezabatu nahi duzu?</target>
+        <target>Proiektu hau ezabatu nahi duzu?</target>
       </trans-unit>
       <trans-unit id="qql8tax" resname="Deleting...">
         <source>Deleting...</source>
-        <target>~Ezabatzen...</target>
+        <target>Ezabatzen...</target>
       </trans-unit>
       <trans-unit id="jyh6ixo" resname="An error occurred while duplicating the project.">
         <source>An error occurred while duplicating the project.</source>
-        <target>~Errorea proiektua bikoiztean.</target>
+        <target>Errorea proiektua bikoiztean.</target>
       </trans-unit>
       <trans-unit id="phl04ad" resname="An error occurred while opening the file.">
         <source>An error occurred while opening the file.</source>
-        <target>~Errorea fitxategia irekitzean.</target>
+        <target>Errorea fitxategia irekitzean.</target>
       </trans-unit>
       <trans-unit id="fjevjn6" resname="Are you sure you want to delete this project?">
         <source>Are you sure you want to delete this project?</source>
-        <target>~Ziur zaude proiektu hau ezabatu nahi duzula?</target>
+        <target>Ziur zaude proiektu hau ezabatu nahi duzula?</target>
       </trans-unit>
       <trans-unit id="aby2ghl" resname="Are you sure you want to delete %s projects?">
         <source>Are you sure you want to delete %s projects?</source>
-        <target>~Ziur zaude %s proiektu ezabatu nahi dituzula?</target>
+        <target>Ziur zaude %a proiektu ezabatu nahi duzula?</target>
       </trans-unit>
       <trans-unit id="jalbrvv" resname="Delete projects">
         <source>Delete projects</source>
-        <target>~Proiektuak ezabatu</target>
+        <target>Proiektuak ezabatu</target>
       </trans-unit>
       <trans-unit id="4jben5y" resname="This action cannot be undone.">
         <source>This action cannot be undone.</source>
-        <target>~Ekintza honek ezin du desegin.</target>
+        <target>Ekintza hau ezin da desegin.</target>
       </trans-unit>
       <trans-unit id="rbhlw5w" resname="An error occurred while importing the component.">
         <source>An error occurred while importing the component.</source>
-        <target>~Errorea osagaia inportatzean.</target>
+        <target>Errorea osagaia inportatzean.</target>
       </trans-unit>
       <trans-unit id="1hzmrch" resname="An error occurred while importing properties.">
         <source>An error occurred while importing properties.</source>
-        <target>~Errorea propietateak inportatzean.</target>
+        <target>Errorea propietateak inportatzean.</target>
       </trans-unit>
       <trans-unit id="sdz9nv5" resname="An error occurred while importing the file.">
         <source>An error occurred while importing the file.</source>
-        <target>~Errorea fitxategia inportatzean.</target>
+        <target>Errorea fitxategia inportatzean.</target>
       </trans-unit>
       <trans-unit id="zki0oqd" resname="The default style will be used instead.">
         <source>The default style will be used instead.</source>
-        <target>~Lehenetsitako estiloa erabiliko da horren ordez.</target>
+        <target>Lehenetsitako estiloa erabiliko da horren ordez.</target>
       </trans-unit>
       <trans-unit id="43dn36l" resname="Style not available">
         <source>Style not available</source>
-        <target>~Estilo ez dago erabilgarri</target>
+        <target>Estiloa ez dago erabilgarri</target>
       </trans-unit>
       <trans-unit id="ugbrxxx" resname="An error occurred while saving the project">
         <source>An error occurred while saving the project</source>
-        <target>~Errorea proiektua gordean</target>
+        <target>Errorea proiektua gordetzean</target>
       </trans-unit>
       <trans-unit id="675h1gv" resname="Saving project...">
         <source>Saving project...</source>
-        <target>~Proiektua gordetzen...</target>
+        <target>Proiektua gordetzen...</target>
       </trans-unit>
       <trans-unit id="dvkq4e7" resname="Saving document structure to server...">
         <source>Saving document structure to server...</source>
-        <target>~Gordetzen dokumentuaren egitura zerbitzarian...</target>
+        <target>Dokumentuaren egitura zerbitzarian gordetzen...</target>
       </trans-unit>
       <trans-unit id="lws9t56" resname="Uploading assets...">
         <source>Uploading assets...</source>
-        <target>~Baliabideak igotzen...</target>
+        <target>Baliabideak igotzen...</target>
       </trans-unit>
       <trans-unit id="sslwky7" resname="Uploading images and files to server...">
         <source>Uploading images and files to server...</source>
-        <target>~Irudiak eta fitxategiak zerbitzarira igotzen...</target>
+        <target>Irudiak eta fitxategiak zerbitzarira igotzen...</target>
       </trans-unit>
       <trans-unit id="1gm5125" resname="Save complete!">
         <source>Save complete!</source>
-        <target>~Gordeta osoa!</target>
+        <target>Gordeta osorik!</target>
       </trans-unit>
       <trans-unit id="n828byj" resname="All changes have been saved successfully.">
         <source>All changes have been saved successfully.</source>
-        <target>~Guztiz ondo gorde dira aldaketak.</target>
+        <target>Ondo gorde dira aldaketa guztiak.</target>
       </trans-unit>
       <trans-unit id="6nq3r5x" resname="Uploading asset">
         <source>Uploading asset</source>
-        <target>~Baliabidea igotzen</target>
+        <target>Baliabidea igotzen</target>
       </trans-unit>
       <trans-unit id="q13jezp" resname="Saving project">
         <source>Saving project</source>
-        <target>~Proiektua gorde</target>
+        <target>Proiektua gordetzen</target>
       </trans-unit>
       <trans-unit id="9rz4d2j" resname="Preparing...">
         <source>Preparing...</source>
-        <target>~Preparatzen...</target>
+        <target>Prestatzenn...</target>
       </trans-unit>
       <trans-unit id="wde91uu" resname="Preparing to save your project...">
         <source>Preparing to save your project...</source>
-        <target>~Preparatzen zure proiektua gorde ahal izateko...</target>
+        <target>Zure proiektua prestatzen gorde ahal izateko...</target>
       </trans-unit>
       <trans-unit id="1fgv5fi" resname="No project available to share">
         <source>No project available to share</source>
-        <target>~Ez dago partekatzeko proiektu eskuragarri</target>
+        <target>Ez dago eskuragarri partekatzeko proiekturik</target>
       </trans-unit>
       <trans-unit id="chn3rrk" resname="Failed to load project data">
         <source>Failed to load project data</source>
-        <target>~Errorea proiektuaren datuak kargatzean</target>
+        <target>Errorea proiektuaren datuak kargatzean</target>
       </trans-unit>
       <trans-unit id="wpifm7h" resname="Owner">
         <source>Owner</source>
-        <target>~Jabea</target>
+        <target>Jabea</target>
       </trans-unit>
       <trans-unit id="zsymdt3" resname="you">
         <source>you</source>
-        <target>~ zuk</target>
+        <target>zu</target>
       </trans-unit>
       <trans-unit id="0miwflv" resname="More actions">
         <source>More actions</source>
-        <target>~Ekintza gehiago</target>
+        <target>Ekintza gehiago</target>
       </trans-unit>
       <trans-unit id="drhqw19" resname="Make owner">
         <source>Make owner</source>
-        <target>~Jabe egin</target>
+        <target>Jabe bihurtu</target>
       </trans-unit>
       <trans-unit id="nwes1mm" resname="Remove access">
         <source>Remove access</source>
-        <target>~Sartu sarbide ezabatu</target>
+        <target>Sarbidea ezabatu</target>
       </trans-unit>
       <trans-unit id="jj3m51p" resname="Please enter an email address">
         <source>Please enter an email address</source>
-        <target>~Sartu helbide elektroniko bat</target>
+        <target>Sartu helbide elektroniko bat, mesedez</target>
       </trans-unit>
       <trans-unit id="nvvyjhl" resname="Please enter a valid email address">
         <source>Please enter a valid email address</source>
-        <target>~Sartu baliozko helbide elektroniko bat</target>
+        <target>Sartu baliozko helbide elektroniko bat, mesedez</target>
       </trans-unit>
       <trans-unit id="3whcsdg" resname="Inviting...">
         <source>Inviting...</source>
-        <target>~Harpidzen...</target>
+        <target>Gonbidatzen...</target>
       </trans-unit>
       <trans-unit id="cgzlcp1" resname="Invited {email}">
         <source>Invited {email}</source>
-        <target>~Harpiduna {email}</target>
+        <target>Gonbidatuta {email}</target>
       </trans-unit>
       <trans-unit id="tpbcmbb" resname="This user is already a collaborator">
         <source>This user is already a collaborator</source>
-        <target>~Este usuario ya es colaborador</target>
+        <target>Erabiltzaile hau dagoeneko kolaboratzailea da</target>
       </trans-unit>
       <trans-unit id="vszr20s" resname="Failed to invite user">
         <source>Failed to invite user</source>
-        <target>~Error al invitar al usuario</target>
+        <target>Errorea erabiltzailea gonbidatzean</target>
       </trans-unit>
       <trans-unit id="f25nsbi" resname="Remove {email}&apos;s access to this project?">
         <source>Remove {email}'s access to this project?</source>
-        <target>~{email} erabiltzailearen sarbidea proiektu honetatik kendu?</target>
+        <target>{email} erabiltzailearen sarbidea proiektu honetatik kendu?</target>
       </trans-unit>
       <trans-unit id="gvoiuwr" resname="Removed {email}">
         <source>Removed {email}</source>
-        <target>~{email} erabiltzailearen sarbidea kendu da</target>
+        <target>{email} kendu da</target>
       </trans-unit>
       <trans-unit id="jrzmzv1" resname="Failed to remove collaborator">
         <source>Failed to remove collaborator</source>
-        <target>~Error al eliminar al colaborador</target>
+        <target>Errorea kolaboratzailea ezabatzean</target>
       </trans-unit>
       <trans-unit id="6ldd14w" resname="Transfer ownership to {email}? You will become an editor.">
         <source>Transfer ownership to {email}? You will become an editor.</source>
-        <target>~{email} erabiltzaileari jabetza transferitu? Editore bihurtuko zara.</target>
+        <target>{email} erabiltzaileari jabetza transferitu? Editore bihurtuko zara.</target>
       </trans-unit>
       <trans-unit id="bikwwm9" resname="Ownership transferred to {email}">
         <source>Ownership transferred to {email}</source>
-        <target>~Propiedad transferida a {email}</target>
+        <target>Jabetza {email}ri transferituta</target>
       </trans-unit>
       <trans-unit id="gv0gp7c" resname="Failed to transfer ownership">
         <source>Failed to transfer ownership</source>
-        <target>~Errorea jabetza transferitzean</target>
+        <target>Errorea jabetza transferitzean</target>
       </trans-unit>
       <trans-unit id="ndado78" resname="Project data not loaded. Please try again.">
         <source>Project data not loaded. Please try again.</source>
-        <target>~Proiektuaren datuak ez dira kargatu. Saiatu berriro.</target>
+        <target>Proiektuaren datuak ez dira kargatu. Saiatu berriro, mesedez.</target>
       </trans-unit>
       <trans-unit id="8xww4x9" resname="Project is now public">
         <source>Project is now public</source>
-        <target>~Orain proiektua publiko da</target>
+        <target>Orain proiektua publikoa da</target>
       </trans-unit>
       <trans-unit id="emasnq2" resname="Project is now private">
         <source>Project is now private</source>
-        <target>~Orain proiektua pribatua da</target>
+        <target>Orain proiektua pribatua da</target>
       </trans-unit>
       <trans-unit id="7h3rtrb" resname="Failed to update visibility">
         <source>Failed to update visibility</source>
-        <target>~Errorea eguneratzean ikusgaitasuna</target>
+        <target>Errorea eguneratzean ikusgaitasuna</target>
       </trans-unit>
       <trans-unit id="3mhwx2i" resname="Link copied to clipboard">
         <source>Link copied to clipboard</source>
-        <target>~Esteka itsatsi da aitzipena</target>
+        <target>Esteka itsatsi da arbelean</target>
       </trans-unit>
       <trans-unit id="q9263lv" resname="Failed to copy link">
         <source>Failed to copy link</source>
-        <target>~Errorea esteka itsastean</target>
+        <target>Errorea esteka kopiatzean</target>
       </trans-unit>
       <trans-unit id="g1xfx1n" resname="Print preview requires server mode">
         <source>Print preview requires server mode</source>
-        <target>~Inprimatzeko aurrebista modua zerbitzari modua behar du</target>
+        <target>Inprimatzeko aurrebista moduak zerbitzari modua behar du</target>
       </trans-unit>
       <trans-unit id="3qgnjua" resname="Document manager not available">
         <source>Document manager not available</source>
-        <target>~Dokumentuen kudeatzailea ez dago erabilgarri</target>
+        <target>Dokumentuen kudeatzailea ez dago erabilgarri</target>
       </trans-unit>
       <trans-unit id="hz6ysm0" resname="Print preview not available">
         <source>Print preview not available</source>
-        <target>~Inprimatzeko aurrebista ez dago erabilgarri</target>
+        <target>Inprimatzeko aurrebista ez dago erabilgarri</target>
       </trans-unit>
       <trans-unit id="df55d51" resname="Failed to generate preview">
         <source>Failed to generate preview</source>
-        <target>~Errorea aurrebista sortzean</target>
+        <target>Errorea aurrebista sortzean</target>
       </trans-unit>
       <trans-unit id="rimz01h" resname="Queued">
         <source>Queued</source>
-        <target>~Zain dago</target>
+        <target>Zain dago</target>
       </trans-unit>
       <trans-unit id="5uavfgj" resname="Estimating...">
         <source>Estimating...</source>
-        <target>~Estimando...</target>
+        <target>Balioztatzen...</target>
       </trans-unit>
       <trans-unit id="208mdh9" resname="Ready">
         <source>Ready</source>
-        <target>~Prest</target>
+        <target>Prest</target>
       </trans-unit>
       <trans-unit id="0tdl2h8" resname="Failed">
         <source>Failed</source>
-        <target>~Errorea</target>
+        <target>Errorea</target>
       </trans-unit>
       <trans-unit id="vs6uhwr" resname="Image Optimizer">
         <source>Image Optimizer</source>
-        <target>~Irudiak optimizatzen</target>
+        <target>Irudi-optimizatzailea</target>
       </trans-unit>
       <trans-unit id="z67tjkz" resname="N/A">
         <source>N/A</source>
-        <target>~Ez dago</target>
+        <target>Ez dago</target>
       </trans-unit>
       <trans-unit id="36fhds0" resname="Already optimized">
         <source>Already optimized</source>
-        <target>~Dagoeneko optimizatuta</target>
+        <target>Dagoeneko optimizatuta</target>
       </trans-unit>
       <trans-unit id="ripryzp" resname="Processing">
         <source>Processing</source>
-        <target>~Prozesatzen</target>
+        <target>Prozesatzen</target>
       </trans-unit>
       <trans-unit id="3tof07c" resname="Saving changes...">
         <source>Saving changes...</source>
-        <target>~Aldaketak gordetzen...</target>
+        <target>Aldaketak gordetzen...</target>
       </trans-unit>
       <trans-unit id="j31mw6f" resname="Images optimized successfully">
         <source>Images optimized successfully</source>
-        <target>~Irudiak arrakastaz optimizatu dira</target>
+        <target>Irudiak arrakastaz optimizatu dira</target>
       </trans-unit>
       <trans-unit id="gilkjh8" resname="Error optimizing images">
         <source>Error optimizing images</source>
-        <target>~Errorea irudiak optimizatzean</target>
+        <target>Errorea irudiak optimizatzean</target>
       </trans-unit>
       <trans-unit id="rpyp95a" resname="in">
         <source>in</source>
-        <target>~en</target>
+        <target>barruan</target>
       </trans-unit>
       <trans-unit id="bgt52mk" resname="User">
         <source>User</source>
-        <target>~Erabiltzailea</target>
+        <target>Erabiltzailea</target>
       </trans-unit>
       <trans-unit id="1gh3thm" resname="Viewing page">
         <source>Viewing page</source>
-        <target>~Orrialdea ikusten</target>
+        <target>Orrialdea ikusten</target>
       </trans-unit>
       <trans-unit id="dd915rp" resname="You">
         <source>You</source>
-        <target>~Hi</target>
+        <target>Zu</target>
       </trans-unit>
       <trans-unit id="riy9fw7" resname="Offline mode">
         <source>Offline mode</source>
-        <target>~Offline modua</target>
+        <target>Offline modua</target>
       </trans-unit>
       <trans-unit id="w85kgkn" resname="Shared">
         <source>Shared</source>
-        <target>~Elkartutza</target>
+        <target>Elkarbakatuta</target>
       </trans-unit>
       <trans-unit id="b8j1fpp" resname="ELPX export not available. Please save your project first.">
         <source>ELPX export not available. Please save your project first.</source>
-        <target>~ELPX esportazioa ez dago erabilgarri. Gorde zure proiektua lehenengo.</target>
+        <target>ELPX esportazioa ez dago erabilgarri. Gorde zure proiektua lehenengo, mesedez.</target>
       </trans-unit>
       <trans-unit id="ipoykow" resname="Error generating ELPX file:">
         <source>Error generating ELPX file:</source>
-        <target>~Errorea ELPX fitxategia sortzean:</target>
+        <target>Errorea ELPX fitxategia sortzean:</target>
       </trans-unit>
       <trans-unit id="kzsgvi6" resname="Print preview is not available.">
         <source>Print preview is not available.</source>
-        <target>~Inprimatzeko aurrebista ez dago erabilgarri.</target>
+        <target>Inprimatzeko aurrebista ez dago erabilgarri.</target>
       </trans-unit>
       <trans-unit id="wp4mt80" resname="Preview opened in new window.">
         <source>Preview opened in new window.</source>
-        <target>~Aurrebista beste leiho batean zabaldu da.</target>
+        <target>Aurrebista beste leiho batean zabaldu da.</target>
       </trans-unit>
       <trans-unit id="zl1iy30" resname="pages">
         <source>pages</source>
-        <target>~orrialdeak</target>
+        <target>orrialdeak</target>
       </trans-unit>
       <trans-unit id="8d3nk4p" resname="Generating file from collaborative document...">
         <source>Generating file from collaborative document...</source>
-        <target>~Dokumentu lankidetzako fitxategia sortzen...</target>
+        <target>Dokumentu lankidetzako fitxategia sortzen...</target>
       </trans-unit>
       <trans-unit id="685pkr4" resname="File saved.">
         <source>File saved.</source>
-        <target>~Fitxategia gorde da.</target>
+        <target>Fitxategia gorde da.</target>
       </trans-unit>
       <trans-unit id="9wxl4pc" resname="An error occurred while saving the file.">
         <source>An error occurred while saving the file.</source>
-        <target>~Errorea fitxategia gordetzean.</target>
+        <target>Errorea fitxategia gordetzean.</target>
       </trans-unit>
       <trans-unit id="p6d80ey" resname="Preview is not available. Please reload the page.">
         <source>Preview is not available. Please reload the page.</source>
-        <target>~Aurrebista ez dago erabilgarri. Mesedez, kargatu orria berriro.</target>
+        <target>Aurrebista ez dago erabilgarri. Mesedez, kargatu orria berriro.</target>
       </trans-unit>
       <trans-unit id="b5a716k" resname="Storage not available">
         <source>Storage not available</source>
-        <target>~Gordetzea ez dago erabilgarri</target>
+        <target>Gordetzea ez dago erabilgarri</target>
       </trans-unit>
       <trans-unit id="vbwhn7b" resname="Invalid style package">
         <source>Invalid style package</source>
-        <target>~Estilo baliogabea</target>
+        <target>Estilo baliogabea</target>
       </trans-unit>
       <trans-unit id="z7iz5wl" resname="config.xml not found in ZIP">
         <source>config.xml not found in ZIP</source>
-        <target>~config.xml ez da aurkitu ZIP-an</target>
+        <target>config.xml ez da aurkitu ZIP artxiboan</target>
       </trans-unit>
       <trans-unit id="vu1hlkx" resname="This style cannot be downloaded">
         <source>This style cannot be downloaded</source>
-        <target>~Estilo hau ezin da deskargatu</target>
+        <target>Estilo hau ezin da deskargatu</target>
       </trans-unit>
       <trans-unit id="010mtjt" resname="Style already exists">
         <source>Style already exists</source>
-        <target>~Estilo hori jada existitzen da</target>
+        <target>Estilo hori jada existitzen da</target>
       </trans-unit>
       <trans-unit id="4hwox3i" resname="A style with this name already exists">
         <source>A style with this name already exists</source>
-        <target>~Estilo honekin dagoen izena duen estilo bat existitzen da</target>
+        <target>Badago izen hori duen estilo bat</target>
       </trans-unit>
       <trans-unit id="7fdngmu" resname="Style files not found">
         <source>Style files not found</source>
-        <target>~Ez da estilo fitxategiak aurkitu</target>
+        <target>Ez da estilo fitxategirik aurkitu</target>
       </trans-unit>
       <trans-unit id="f5pk0ni" resname="Add page">
         <source>Add page</source>
-        <target>~Orria gehitu</target>
+        <target>Orria gehitu</target>
       </trans-unit>
       <trans-unit id="cy3wjyo" resname="Export page">
         <source>Export page</source>
-        <target>~Orria esportatu</target>
+        <target>Orria esportatu</target>
       </trans-unit>
       <trans-unit id="n7bia4y" resname="Table of contents">
         <source>Table of contents</source>
-        <target>~Edukien taula</target>
+        <target>Edukien taula</target>
       </trans-unit>
       <trans-unit id="4aymczf" resname="Export functionality not available. Please reload the page.">
         <source>Export functionality not available. Please reload the page.</source>
-        <target>~Esportazio funtzionalitatea ez dago erabilgarri. Mesedez, kargatu orria berriro.</target>
+        <target>Esportazio funtzionalitatea ez dago erabilgarri. Mesedez, kargatu orria berriro.</target>
       </trans-unit>
       <trans-unit id="d739dic" resname="Collaboration service not ready">
         <source>Collaboration service not ready</source>
-        <target>~Elkarrekin editatzeko zerbitzua ez dago erabilgarri</target>
+        <target>Kolaboratzeko zerbitzua ez dago erabilgarri</target>
       </trans-unit>
       <trans-unit id="htviazt" resname="Export failed">
         <source>Export failed</source>
-        <target>~Errorea esportazioan</target>
+        <target>Errorea esportazioan</target>
       </trans-unit>
       <trans-unit id="ir2kgc0" resname="Please wait for the project to fully load before importing.">
         <source>Please wait for the project to fully load before importing.</source>
