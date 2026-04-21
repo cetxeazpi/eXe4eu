@@ -13671,15 +13671,15 @@
       </trans-unit>
       <trans-unit id="mjaddx8" resname="The folder picker did not respond. This may happen when opening exported files directly from the filesystem (file:// protocol). Try opening the file through a local web server instead.">
         <source>The folder picker did not respond. This may happen when opening exported files directly from the filesystem (file:// protocol). Try opening the file through a local web server instead.</source>
-        <target>~Ez da erantzun karpeta hautatzaileak. Hau gertatu daiteke zure ekipoan zuzenean esportatutako fitxategiak irekitzearen ondorioz (file:// protokoloa). Saihestu fitxategia web zerbitzariren bidez irekitzea.</target>
+        <target>Karpeta-hautatzaileak ez du erantzun. Hori gertatu daiteke esportatutako fitxategiak zuzenean fitxategi-sistematik irekitzean (fitxategia:// protokoloa). Saiatu fitxategia web zerbitzari lokal baten bidez irekitzen.</target>
       </trans-unit>
       <trans-unit id="epv0opz" resname="No files were returned by the folder picker. This is a known limitation when opening exported files with the file:// protocol in some browsers. Try using a different browser or opening the file through a local web server.">
         <source>No files were returned by the folder picker. This is a known limitation when opening exported files with the file:// protocol in some browsers. Try using a different browser or opening the file through a local web server.</source>
-        <target>~Ez da fitxategiak aurkitu karpeta hautatzaileak. Hau ezagutzen den muga bat da, file:// protokoloa erabiliz esportatutako fitxategiak irekitzean zenbait nabigatzaileetan. Saihestu beste nabigatzaile bat erabiltzea edo web zerbitzariren bidez ireki fitxategia.</target>
+        <target>Karpeta-hautatzaileak ez du fitxategirik aurkitu. Muga hori ezaguna da file: barrra-/ protokoloarekin esportatutako fitxategiak nabigatzaile batzuetan irekitzean. Saiatu beste nabigatzaile bat erabiltzen edo ireki fitxategia web zerbitzari baten bidez.</target>
       </trans-unit>
       <trans-unit id="9k68ygy" resname="Local mode: Due to browser security policy, you will need to select the folder from which you opened this file. On a web server this will not be necessary.">
         <source>Local mode: Due to browser security policy, you will need to select the folder from which you opened this file. On a web server this will not be necessary.</source>
-        <target>~Modu lokala: nabigatzailearen segurtasun-politika dela eta, karpeta hautatu beharko duzu zeinetatik ireki duzun fitxategia. Web zerbitzari batean hau ez da beharrezkoa izango.</target>
+        <target>Modu lokala: nabigatzailearen segurtasun-politika dela eta, fitxategi hau irekitzeko erabili duzun karpeta aukeratu beharko duzu. Web zerbitzari batean hau ez da beharrezkoa izango.</target>
       </trans-unit>
       <trans-unit id="7rzvxzo" resname="Hangman game">
         <source>Hangman game</source>
@@ -13867,99 +13867,99 @@
       </trans-unit>
       <trans-unit id="spxq1j3" resname="Message shown when answer is correct">
         <source>Message shown when answer is correct</source>
-        <target>~Mezu hau erakusten da erantzuna zuzena denean</target>
+        <target>Mezu hau erakusten da erantzuna zuzena denean</target>
       </trans-unit>
       <trans-unit id="kq6zzdp" resname="Feedback for wrong answer (optional)">
         <source>Feedback for wrong answer (optional)</source>
-        <target>~Erantzun okerra emateko iruzkina (aukerakoa)</target>
+        <target>Erantzun okerra emateko iruzkina (aukerakoa)</target>
       </trans-unit>
       <trans-unit id="8jler55" resname="Message shown when answer is wrong">
         <source>Message shown when answer is wrong</source>
-        <target>~Mezu hau erakusten da erantzuna okerra denean</target>
+        <target>Mezu hau erakusten da erantzuna okerra denean</target>
       </trans-unit>
       <trans-unit id="wummnqb" resname="No indicators were selected for this activity.">
         <source>No indicators were selected for this activity.</source>
-        <target>~Ez daude adierazleak hautatu activity honetan.</target>
+        <target>Ez da adierazlerik hautatu jarduera honetarako.</target>
       </trans-unit>
       <trans-unit id="3oh4v45" resname="DigCompEdu summary">
         <source>DigCompEdu summary</source>
-        <target>~DigCompEdu Laburpena</target>
+        <target>DigCompEdu laburpena</target>
       </trans-unit>
       <trans-unit id="29mu38x" resname="Selected indicators: ">
         <source>Selected indicators: </source>
-        <target>~Hautatutako adierazleak: </target>
+        <target>Hautatutako adierazleak: </target>
       </trans-unit>
       <trans-unit id="qjbqigl" resname="DigCompEdu: Digital Competence Manager">
         <source>DigCompEdu: Digital Competence Manager</source>
-        <target>~DigCompEdu: Gaitasun Digitalaren Kudeatzailea</target>
+        <target>DigCompEdu: Konpetentzia Digitalaren Kudeatzailea</target>
       </trans-unit>
       <trans-unit id="v2fycfd" resname="Framework data could not be loaded. Please verify the data file is available.">
         <source>Framework data could not be loaded. Please verify the data file is available.</source>
-        <target>~Ezin izan dira markoaren datuak kargatu. Egiaztatu datu-fitxategia eskuragarri dagoela.</target>
+        <target>Ezin izan dira esparruaren datuak kargatu. Egiaztatu datu-fitxategia eskuragarri dagoela.</target>
       </trans-unit>
       <trans-unit id="o71anzk" resname="Framework data is still loading. Please wait.">
         <source>Framework data is still loading. Please wait.</source>
-        <target>~Oraindik kargatzen ari dira markoaren datuak. Mesedez, itxaron...</target>
+        <target>Oraindik kargatzen ari dira esparruaren datuak. Mesedez, itxaron...</target>
       </trans-unit>
       <trans-unit id="8i4fjci" resname="DigCompEdu framework viewer">
         <source>DigCompEdu framework viewer</source>
-        <target>~DigCompEdu markoaren bistailea</target>
+        <target>DigCompEdu esparruaren bisorea</target>
       </trans-unit>
       <trans-unit id="tf7rwkq" resname="DigCompEdu framework">
         <source>DigCompEdu framework</source>
-        <target>~DigCompEdu Markoa</target>
+        <target>DigCompEdu esparrua</target>
       </trans-unit>
       <trans-unit id="czzj5rz" resname="Use filters, search, or fullscreen to explore the framework. Indicators remain selected while filtering.">
         <source>Use filters, search, or fullscreen to explore the framework. Indicators remain selected while filtering.</source>
-        <target>~Erabili filtroak, bilaketa edo pantaila osoa markoa esploratzea lortzeko. Indikadoreak hautatuta geratzen dira filtroa aplikatzen denean.</target>
+        <target>Erabili iragazkiak, bilaketa edo pantaila osoa esparrua arakatzeko. Adierazleak hautatuta geratzen dira iragaztean.</target>
       </trans-unit>
       <trans-unit id="iktb94b" resname="Area">
         <source>Area</source>
-        <target>~Arloa</target>
+        <target>Arloa</target>
       </trans-unit>
       <trans-unit id="qg2trn4" resname="Competence">
         <source>Competence</source>
-        <target>~Gaitasuna</target>
+        <target>Konpetentzia</target>
       </trans-unit>
       <trans-unit id="3xni8jl" resname="Stage">
         <source>Stage</source>
-        <target>~Fasea</target>
+        <target>Fasea</target>
       </trans-unit>
       <trans-unit id="tee95m1" resname="Indicator">
         <source>Indicator</source>
-        <target>~Indikagailua</target>
+        <target>Indikadorea</target>
       </trans-unit>
       <trans-unit id="p7up0ua" resname="Performance and examples">
         <source>Performance and examples</source>
-        <target>~Ekoizpena eta adibideak</target>
+        <target>Ekoizpena eta adibideak</target>
       </trans-unit>
       <trans-unit id="1ji0a1h" resname="DigCompEdu settings">
         <source>DigCompEdu settings</source>
-        <target>~DigCompEdu konfigurazioa</target>
+        <target>DigCompEdu konfigurazioa</target>
       </trans-unit>
       <trans-unit id="ebr9yse" resname="Español (MRCDD detallado)">
         <source>Español (MRCDD detallado)</source>
-        <target>~Euskara (MRCDD xehetasita)</target>
+        <target>Euskara (IKDEE zehaztuta)</target>
       </trans-unit>
       <trans-unit id="mr7nnhi" resname="Galego (MRCDD completo)">
         <source>Galego (MRCDD completo)</source>
-        <target>~Gallego (MRCDD osoa)</target>
+        <target>Galego (MRCDD completo)</target>
       </trans-unit>
       <trans-unit id="mxgi13i" resname="English (DigCompEdu core)">
         <source>English (DigCompEdu core)</source>
-        <target>~Ingelesa (DigCompEdu gune)</target>
+        <target>Ingelesa (DigCompEdu core)</target>
       </trans-unit>
       <trans-unit id="tcu6sch" resname="Display options">
         <source>Display options</source>
-        <target>~Erakutsi aukerak</target>
+        <target>Erakutsi aukerak</target>
       </trans-unit>
       <trans-unit id="slt4x12" resname="Table only">
         <source>Table only</source>
-        <target>~Taula bakarra</target>
+        <target>Taula bakarrik</target>
       </trans-unit>
       <trans-unit id="ulj6f9l" resname="Table + textual summary">
         <source>Table + textual summary</source>
-        <target>~Taula + laburpen testuala</target>
+        <target>Taula + testuaren laburpena</target>
       </trans-unit>
       <trans-unit id="nw2ju0x" resname="Competency framework">
         <source>Competency framework</source>
