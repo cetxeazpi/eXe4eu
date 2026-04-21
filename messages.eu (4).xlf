@@ -915,7 +915,7 @@
       </trans-unit>
       <trans-unit id="BSDT0ZB" resname="Could not get code from parent dialog:">
         <source>Could not get code from parent dialog:</source>
-        <target>Ezin izan da guraso dialogotik kodea lortu:</target>
+        <target>Ezin izan da goragoko mailako dialogotik kodea lortu:</target>
       </trans-unit>
       <trans-unit id="7WKfC9x" resname="Recent">
         <source>Recent</source>
@@ -13451,223 +13451,223 @@
       </trans-unit>
       <trans-unit id="ir2kgc0" resname="Please wait for the project to fully load before importing.">
         <source>Please wait for the project to fully load before importing.</source>
-        <target>~Itxaron proiektua guztiz kargatu arte inportatu baino lehen.</target>
+        <target>Mesedez, inportatu aurretik itxaron proiektua guztiz kargatu arte.</target>
       </trans-unit>
       <trans-unit id="p43sp83" resname="this page">
         <source>this page</source>
-        <target>~oraingo orria</target>
+        <target>oraingo orria</target>
       </trans-unit>
       <trans-unit id="dp2ytn5" resname="Unknown user">
         <source>Unknown user</source>
-        <target>~Erabiltzaile ezezaguna</target>
+        <target>Erabiltzaile ezezaguna</target>
       </trans-unit>
       <trans-unit id="yt4ph56" resname="Do you want to delete">
         <source>Do you want to delete</source>
-        <target>~Ez duzu ezabatu nahi</target>
+        <target>Ezabatu nahi duzu?</target>
       </trans-unit>
       <trans-unit id="xm3nvkc" resname="selected pages">
         <source>selected pages</source>
-        <target>~hautatutako orriak</target>
+        <target>hautatutako orriak</target>
       </trans-unit>
       <trans-unit id="5kck1ez" resname="and their children">
         <source>and their children</source>
-        <target>~eta bere azpiorriak</target>
+        <target>eta bere azpiorriak</target>
       </trans-unit>
       <trans-unit id="errzy0k" resname="You can undo this action.">
         <source>You can undo this action.</source>
-        <target>~Ekintza hau desegin dezakezu.</target>
+        <target>Ekintza hau desegin dezakezu.</target>
       </trans-unit>
       <trans-unit id="5hcfqg0" resname="and all its children">
         <source>and all its children</source>
-        <target>~eta bere azpiorriak</target>
+        <target>eta bere azpiorri guztiak</target>
       </trans-unit>
       <trans-unit id="vttccrc" resname="Another user is viewing this page or its children">
         <source>Another user is viewing this page or its children</source>
-        <target>~Beste erabiltzaile bat ikusten ari da orri hau edo bere azpiorriak</target>
+        <target>Beste erabiltzaile bat ikusten ari da orri hau edo bere azpiorriak</target>
       </trans-unit>
       <trans-unit id="58s0to3" resname="Other users are viewing this page or its children">
         <source>Other users are viewing this page or its children</source>
-        <target>~Beste erabiltzaile batzuk ikusten ari dira orri hau edo bere azpiorriak</target>
+        <target>Beste erabiltzaile batzuk ikusten ari dira orri hau edo bere azpiorriak</target>
       </trans-unit>
       <trans-unit id="tct21y6" resname="They will be automatically redirected to the parent page.">
         <source>They will be automatically redirected to the parent page.</source>
-        <target>~Automatikoki goragoko mailako orriraino bideratuko dira.</target>
+        <target>Automatikoki goragoko mailako orrialdera bideratuko dira.</target>
       </trans-unit>
       <trans-unit id="5c4y17c" resname="Preferences will be applied after refreshing the page.">
         <source>Preferences will be applied after refreshing the page.</source>
-        <target>~Lehentasunak orria eguneratu ondoren aplikatuko dira.</target>
+        <target>Lehentasunak orria eguneratu ondoren aplikatuko dira.</target>
       </trans-unit>
       <trans-unit id="wque1se" resname="Changes require a page reload to take effect. Please download your project first to avoid losing your work, then reload the page.">
         <source>Changes require a page reload to take effect. Please download your project first to avoid losing your work, then reload the page.</source>
-        <target>~Aldaketak aplikatzeko orria berkargarritu behar da. Deskargatu zure proiektua lehenik lana ez galtzeko, eta gero kargatu berriro orria.</target>
+        <target>Aldaketak aplikatzeko orria berriro kargatu behar da. Mesedez, lehenik deskargatu zure proiektua lana ez galtzeko, eta gero kargatu berriro orria.</target>
       </trans-unit>
       <trans-unit id="ntl25n3" resname="You have unsaved changes. Are you sure you want to leave?">
         <source>You have unsaved changes. Are you sure you want to leave?</source>
-        <target>~Gorde gabeko aldaketak dituzu. Ziur zaude irten nahi duzula?</target>
+        <target>Gorde gabeko aldaketak dituzu. Ziur zaude irten nahi duzula?</target>
       </trans-unit>
       <trans-unit id="963g6wz" resname="Project not ready for collaboration">
         <source>Project not ready for collaboration</source>
-        <target>~Proiektua ez dago prest lankidetzarako</target>
+        <target>Proiektua ez dago prest lankidetzarako</target>
       </trans-unit>
       <trans-unit id="ldzeqsu" resname="Generating ELPX file...">
         <source>Generating ELPX file...</source>
-        <target>~Aldaketak gorde gabe dituzu. Ziur zaude irtengoa nahi duzula?</target>
+        <target>ELPX fitxategia sortzen...</target>
       </trans-unit>
       <trans-unit id="qs4w93b" resname="File generated and downloaded.">
         <source>File generated and downloaded.</source>
-        <target>~Fitxategia sortu eta deskargatu da.</target>
+        <target>Fitxategia sortuta eta deskargatuta.</target>
       </trans-unit>
       <trans-unit id="gh4sot4" resname="Error generating ELPX file.">
         <source>Error generating ELPX file.</source>
-        <target>~Proiektua lankidetzazko editorrerako prestatu gabe dago</target>
+        <target>Errorea EPX fitxategia sortzean</target>
       </trans-unit>
       <trans-unit id="ggqvzq3" resname="Saving document...">
         <source>Saving document...</source>
-        <target>~Dokumentua gordetzen...</target>
+        <target>Dokumentua gordetzen...</target>
       </trans-unit>
       <trans-unit id="gmnbytq" resname="Saving...">
         <source>Saving...</source>
-        <target>~Sortzen ELPX fitxategia...</target>
+        <target>Gordetzen...</target>
       </trans-unit>
       <trans-unit id="so6owpb" resname="Offline Mode">
         <source>Offline Mode</source>
-        <target>~Lineaz kanpoko modua</target>
+        <target>Offline modua</target>
       </trans-unit>
       <trans-unit id="xf9v7gy" resname="Your project is automatically saved in your browser. Use File &gt; Export to download a copy.">
         <source>Your project is automatically saved in your browser. Use File &gt; Export to download a copy.</source>
-        <target>~Fitxategia sortu eta deskargatu da.</target>
+        <target>Zure proiektua automatikoki gordetzen da zure nabigatzailean. Erabili &gt fitxategia; Esportatu kopia bat deskargatzeko.</target>
       </trans-unit>
       <trans-unit id="uoqjlbe" resname="Cannot save project to server because your storage quota has been exceeded. You can download the project locally.">
         <source>Cannot save project to server because your storage quota has been exceeded. You can download the project locally.</source>
-        <target>~Ezin da proiektua zerbitzarian gorde, zure biltegiratze kuota gainditu delako. Proiektua zure ordenagailura deskargatu dezakezu.</target>
+        <target>Ezin da proiektua zerbitzarian gorde, zure biltegiratze kuota gainditu delako. Proiektua zure ordenagailura deskargatu dezakezu.</target>
       </trans-unit>
       <trans-unit id="npcx0kx" resname="Quota exceeded">
         <source>Quota exceeded</source>
-        <target>~Biltegiratze kuota gaindituta</target>
+        <target>Biltegiratze kuota gaindituta</target>
       </trans-unit>
       <trans-unit id="seerfis" resname="Project saved successfully">
         <source>Project saved successfully</source>
-        <target>~Proiektua behar bezala gorde da</target>
+        <target>Proiektua behar bezala gorde da</target>
       </trans-unit>
       <trans-unit id="fms4ss9" resname="Failed to save project">
         <source>Failed to save project</source>
-        <target>~Errorea proiektua gordetzean</target>
+        <target>Errorea proiektua gordetzean</target>
       </trans-unit>
       <trans-unit id="wslrldh" resname="Project saved">
         <source>Project saved</source>
-        <target>~Proiektua gorde da</target>
+        <target>Proiektua gorde da</target>
       </trans-unit>
       <trans-unit id="taenxkt" resname="Failed to import style">
         <source>Failed to import style</source>
-        <target>~Errorea estiloa inportatzean</target>
+        <target>Errorea estiloa inportatzean</target>
       </trans-unit>
       <trans-unit id="6o9pzhf" resname="Legacy license, please review">
         <source>Legacy license, please review</source>
-        <target>~Proiektuaren lizentzia berrikuspenaren beharra du</target>
+        <target>Proiektuaren lizentziak berrikuspenaren beharra du</target>
       </trans-unit>
       <trans-unit id="qicylyj" resname="Add child page">
         <source>Add child page</source>
-        <target>~Gehitu azalpagaia</target>
+        <target>Gehitu azpiorria</target>
       </trans-unit>
       <trans-unit id="obev0o0" resname="New Page">
         <source>New Page</source>
-        <target>~Orrialdi berria</target>
+        <target>Orri berria</target>
       </trans-unit>
       <trans-unit id="3i0pv9l" resname="Error storing image">
         <source>Error storing image</source>
-        <target>~Errorea irudia gordetzean</target>
+        <target>Errorea irudia gordetzean</target>
       </trans-unit>
       <trans-unit id="fgq5lqq" resname="Could not load YouTube API">
         <source>Could not load YouTube API</source>
-        <target>~Ezin izan da YouTube APIa kargatu</target>
+        <target>Ezin izan da YouTube APIa kargatu</target>
       </trans-unit>
       <trans-unit id="mz0p7g9" resname="Please select an AI assistant.">
         <source>Please select an AI assistant.</source>
-        <target>~Aukeratu AI laguntzailea.</target>
+        <target>Aukeratu AA laguntzailea.</target>
       </trans-unit>
       <trans-unit id="b4fpnkt" resname="The following lines are invalid:">
         <source>The following lines are invalid:</source>
-        <target>~Hurrengo lerroak ez dira baliozkoak:</target>
+        <target>Hurrengo lerroak ez dira baliozkoak:</target>
       </trans-unit>
       <trans-unit id="e08jqdg" resname="The questions have been added successfully">
         <source>The questions have been added successfully</source>
-        <target>~Galderak ondo gehitu dira</target>
+        <target>Galderak ondo gehitu dira</target>
       </trans-unit>
       <trans-unit id="pt7oc9e" resname="Start voice recording">
         <source>Start voice recording</source>
-        <target>~Hizketaren grabazioa hasteko</target>
+        <target>Ahotsaren grabazioa hasi</target>
       </trans-unit>
       <trans-unit id="7cnfp5h" resname="File name">
         <source>File name</source>
-        <target>~Fitxategiaren izena</target>
+        <target>Fitxategiaren izena</target>
       </trans-unit>
       <trans-unit id="f20djp8" resname="Recording time">
         <source>Recording time</source>
-        <target>~Grabazioaren iraupena</target>
+        <target>Grabazioaren iraupena</target>
       </trans-unit>
       <trans-unit id="i8zbybf" resname="Review recording">
         <source>Review recording</source>
-        <target>~Berrikusi grabazioa</target>
+        <target>Berrikusi grabazioa</target>
       </trans-unit>
       <trans-unit id="q1c7zr1" resname="Recording in progress">
         <source>Recording in progress</source>
-        <target>~Grabazioa martxan</target>
+        <target>Grabazioa martxan</target>
       </trans-unit>
       <trans-unit id="ldiy6kk" resname="Uploading...">
         <source>Uploading...</source>
-        <target>~Kargatzen...</target>
+        <target>Kargatzen...</target>
       </trans-unit>
       <trans-unit id="72c26j1" resname="Microphone access was denied or unavailable.">
         <source>Microphone access was denied or unavailable.</source>
-        <target>~Ezin da mikrofonoaren sarbidea onartu edo mikrofonoa ez dago erabilgarri.</target>
+        <target>Mikrofonorako sarbidea ukatu da edo mikrofonoa ez dago erabilgarri.</target>
       </trans-unit>
       <trans-unit id="e2rt0e1" resname="Failed to save recording.">
         <source>Failed to save recording.</source>
-        <target>~Errorea grabazioa gordean.</target>
+        <target>Errorea grabazioa gordean.</target>
       </trans-unit>
       <trans-unit id="4ua897c" resname="Recording">
         <source>Recording</source>
-        <target>~Grabaketa</target>
+        <target>Grabatzen</target>
       </trans-unit>
       <trans-unit id="0f8tnv5" resname="Data error">
         <source>Data error</source>
-        <target>~Datuen errorea</target>
+        <target>Errorea datuetan</target>
       </trans-unit>
       <trans-unit id="e948k0z" resname="This might not work in this ePub reader">
         <source>This might not work in this ePub reader</source>
-        <target>~Honek ez du funtzionatuko ePub irakurgailu honetan</target>
+        <target>Honek ez du funtzionatuko ePub irakurgailu honetan</target>
       </trans-unit>
       <trans-unit id="84y49fx" resname="This activity does not work in ePub format">
         <source>This activity does not work in ePub format</source>
-        <target>~Aktibitatea ez da ePub formatuan funtzionatzen</target>
+        <target>Jarduer honek ez du ePub formatuan funtzionatzen</target>
       </trans-unit>
       <trans-unit id="t6rzl3t" resname="Full search">
         <source>Full search</source>
-        <target>~Bilaketa osoa</target>
+        <target>Bilaketa osoa</target>
       </trans-unit>
       <trans-unit id="ugf9jpz" resname="No search results">
         <source>No search results</source>
-        <target>~Ez da emaitzarik</target>
+        <target>Ez dago emaitzarik</target>
       </trans-unit>
       <trans-unit id="xklj1vk" resname="block">
         <source>block</source>
-        <target>~blokea</target>
+        <target>blokea</target>
       </trans-unit>
       <trans-unit id="zk8tyyg" resname="Default font">
         <source>Default font</source>
-        <target>~Tipografia lehenetsia</target>
+        <target>Lehenetsitako tipografia</target>
       </trans-unit>
       <trans-unit id="1f89ylf" resname="Uppercase">
         <source>Uppercase</source>
-        <target>~Mayúsculas</target>
+        <target>Maiuskulak</target>
       </trans-unit>
       <trans-unit id="1sj2iq6" resname="Light/Dark mode">
         <source>Light/Dark mode</source>
-        <target>~Modu argia/iluna</target>
+        <target>Modu argia/iluna</target>
       </trans-unit>
       <trans-unit id="nhi9tcr" resname="Generating...">
         <source>Generating...</source>
-        <target>~Sortzen</target>
+        <target>Sortzen</target>
       </trans-unit>
       <trans-unit id="mjaddx8" resname="The folder picker did not respond. This may happen when opening exported files directly from the filesystem (file:// protocol). Try opening the file through a local web server instead.">
         <source>The folder picker did not respond. This may happen when opening exported files directly from the filesystem (file:// protocol). Try opening the file through a local web server instead.</source>
@@ -13683,187 +13683,187 @@
       </trans-unit>
       <trans-unit id="7rzvxzo" resname="Hangman game">
         <source>Hangman game</source>
-        <target>~Hautaketa jokoa</target>
+        <target>Urkatuaren jokoa</target>
       </trans-unit>
       <trans-unit id="1mhy0jd" resname="Game over">
         <source>Game over</source>
-        <target>~Jokoaren amaiera</target>
+        <target>Jokua amaitu da</target>
       </trans-unit>
       <trans-unit id="ei840vi" resname="Reload game?">
         <source>Reload game?</source>
-        <target>~Jokoari berriro ekin nahi duzu?</target>
+        <target>Jokoari berriro ekin nahi diozu?</target>
       </trans-unit>
       <trans-unit id="vr2btdb" resname="Click Play to start">
         <source>Click Play to start</source>
-        <target>~Klik egin "Jolastu" hasteko</target>
+        <target>Klikatu "Jolastu" hasteko</target>
       </trans-unit>
       <trans-unit id="u4ht6w7" resname="Click Other word to continue">
         <source>Click Other word to continue</source>
-        <target>~Klikatu "Beste hitza" jarraitzeko</target>
+        <target>Klikatu "Beste hitza" jarraitzeko</target>
       </trans-unit>
       <trans-unit id="vggp5o2" resname="Attempting to reconnect...">
         <source>Attempting to reconnect...</source>
-        <target>~Saiatzen ari da berriro konektatzen...</target>
+        <target>Saiatzen ari da berriro konektatzen...</target>
       </trans-unit>
       <trans-unit id="98b0wam" resname="Your access to this project has been revoked.">
         <source>Your access to this project has been revoked.</source>
-        <target>~Zure sarbidea proiektu honetan bertan behera geratu da.</target>
+        <target>Zure sarbidea proiektu honetan bertan behera geratu da.</target>
       </trans-unit>
       <trans-unit id="db91cum" resname="Mind map saved">
         <source>Mind map saved</source>
-        <target>~Gai mentalaren mapa gorde da</target>
+        <target>Burumapa gorde da</target>
       </trans-unit>
       <trans-unit id="wdqlbi8" resname="source">
         <source>source</source>
-        <target>~jatorria</target>
+        <target>iturria</target>
       </trans-unit>
       <trans-unit id="ny3ki3k" resname="target">
         <source>target</source>
-        <target>~helmuga</target>
+        <target>helmuga</target>
       </trans-unit>
       <trans-unit id="2lphe6l" resname="Create new formula toolbar">
         <source>Create new formula toolbar</source>
-        <target>~Sortu formula barra berria</target>
+        <target>Sortu formula barra berria</target>
       </trans-unit>
       <trans-unit id="ohozk5u" resname="Add Category">
         <source>Add Category</source>
-        <target>~Gehitu kategoria</target>
+        <target>Gehitu kategoria</target>
       </trans-unit>
       <trans-unit id="pcm5ah2" resname="Quick start">
         <source>Quick start</source>
-        <target>~Hasiera azkarra</target>
+        <target>Hasiera azkarra</target>
       </trans-unit>
       <trans-unit id="uvus914" resname="Start from empty set">
         <source>Start from empty set</source>
-        <target>~Hasi zerotik</target>
+        <target>Hasi zerotik</target>
       </trans-unit>
       <trans-unit id="n9a9yu6" resname="Start with minimal example">
         <source>Start with minimal example</source>
-        <target>~Hasi with a minimum example</target>
+        <target>Hasi adibide xumearekin</target>
       </trans-unit>
       <trans-unit id="gl13xb4" resname="Create a new set without loading external files.">
         <source>Create a new set without loading external files.</source>
-        <target>~Sortu fitxategi kanpoko fitxategirik kargatu gabe</target>
+        <target>Sortu fitxategi kanpoko fitxategirik kargatu gabe</target>
       </trans-unit>
       <trans-unit id="jz2w7qn" resname="Your set is empty. Use the &quot;+ Add Category&quot; button above to create the first category.">
         <source>Your set is empty. Use the "+ Add Category" button above to create the first category.</source>
-        <target>~Zure multzoa hutsik dago. Erabili goiko "+ Gehitu kategoria" botoia lehenengo kategoria sortzeko.</target>
+        <target>Zure multzoa hutsik dago. Erabili goiko "+ Gehitu kategoria" botoia lehenengo kategoria sortzeko.</target>
       </trans-unit>
       <trans-unit id="zkb3f5v" resname="Double-click to rename">
         <source>Double-click to rename</source>
-        <target>~Klik bikoitza izena aldatzeko</target>
+        <target>Klikatu bi aldiz izena aldatzeko</target>
       </trans-unit>
       <trans-unit id="0rs4967" resname="Close without saving?">
         <source>Close without saving?</source>
-        <target>~Itxi gabe utzi nahi duzu?</target>
+        <target>Gorde gabe itxi nahi duzu?</target>
       </trans-unit>
       <trans-unit id="9kmzal4" resname="This set has unsaved changes. Close anyway?">
         <source>This set has unsaved changes. Close anyway?</source>
-        <target>~Multzo honek aldaketak ditu gordeta ez direnak. Itxi nahi duzu oraindik ere?</target>
+        <target>Multzo honek gorde gabeko aldaketak ditu. Hala ere itxi nahi duzu?</target>
       </trans-unit>
       <trans-unit id="jkfggi5" resname="Rename set">
         <source>Rename set</source>
-        <target>~Multzoa berrizendatu</target>
+        <target>Multzoa berrizendatu</target>
       </trans-unit>
       <trans-unit id="nl0up59" resname="Set name">
         <source>Set name</source>
-        <target>~Multzoaren izena</target>
+        <target>Multzoaren izena</target>
       </trans-unit>
       <trans-unit id="zs48d7g" resname="Starter example">
         <source>Starter example</source>
-        <target>~Hasierako adibidea</target>
+        <target>Hasierako adibidea</target>
       </trans-unit>
       <trans-unit id="23cp8d3" resname="Error processing JSON:">
         <source>Error processing JSON:</source>
-        <target>~Errorea JSON prozesatzean:</target>
+        <target>Errorea JSON prozesatzean:</target>
       </trans-unit>
       <trans-unit id="hkiq09s" resname="Code license:">
         <source>Code license:</source>
-        <target>~Lizentzia kodea:</target>
+        <target>Lizentzia kodea:</target>
       </trans-unit>
       <trans-unit id="zk0ti07" resname="Content:">
         <source>Content:</source>
-        <target>~Edukia:</target>
+        <target>Edukia:</target>
       </trans-unit>
       <trans-unit id="ask5ip8" resname="Send to host">
         <source>Send to host</source>
-        <target>~Bidali</target>
+        <target>Bidali</target>
       </trans-unit>
       <trans-unit id="jgm75fl" resname="Sent!">
         <source>Sent!</source>
-        <target>~Bidalia!</target>
+        <target>Bidalia!</target>
       </trans-unit>
       <trans-unit id="h24hs3t" resname="Missing or invalid origin.">
         <source>Missing or invalid origin.</source>
-        <target>~Jatorria edo ez-baliogabeko jatorria falta da.</target>
+        <target>Jatorria falta da edo jatorriak ez du balio.</target>
       </trans-unit>
       <trans-unit id="qgtx8w0" resname="No host window available.">
         <source>No host window available.</source>
-        <target>~Ez da helbide leiorik aurkitu.</target>
+        <target>Ez da helmugako leihoa aurkitu.</target>
       </trans-unit>
       <trans-unit id="ta3dnhl" resname="Your set is empty. Start by adding a category.">
         <source>Your set is empty. Start by adding a category.</source>
-        <target>~Zure multzoa hutsik dago. Hasi kategoria bat gehituz.</target>
+        <target>Zure multzoa hutsik dago. Hasi kategoria bat gehituz.</target>
       </trans-unit>
       <trans-unit id="dpfdp59" resname="Add first category">
         <source>Add first category</source>
-        <target>~Gehitu lehenengo kategoria</target>
+        <target>Gehitu lehenengo kategoria</target>
       </trans-unit>
       <trans-unit id="ss8hse0" resname="Mermaid code">
         <source>Mermaid code</source>
-        <target>~Mermaid kodea</target>
+        <target>Mermaid kodea</target>
       </trans-unit>
       <trans-unit id="kv0alg5" resname="Need help? Visit %s">
         <source>Need help? Visit %s</source>
-        <target>~Laguntza behar duzu? Bisitatu %s</target>
+        <target>Laguntza behar duzu? Bisitatu %s</target>
       </trans-unit>
       <trans-unit id="dwjguyz" resname="Mermaid diagram">
         <source>Mermaid diagram</source>
-        <target>~Diagramaren Mermaid</target>
+        <target>Mermaid diagrama</target>
       </trans-unit>
       <trans-unit id="f7ztlpa" resname="Player compatible with .srt subtitles. Check only if using .srt subtitles.">
         <source>Player compatible with .srt subtitles. Check only if using .srt subtitles.</source>
-        <target>~Subtituluekin bateragarria den erreproduzigailua, SRT. Aukeratu ezazu aukera hau soilik SRT azpidatziekin erabiltzen duzunean.</target>
+        <target>SRT azpitituluekin bateragarria den erreproduzigailua. Markatu aukera hau soilik SRT azpitituluak erabiltzen badituzu.</target>
       </trans-unit>
       <trans-unit id="t0daxkd" resname="Task information">
         <source>Task information</source>
-        <target>~Zereginaren informazioa</target>
+        <target>Zereginerako informazioa</target>
       </trans-unit>
       <trans-unit id="wvpk6dg" resname="You made %s errors. You have %s attempts left. Do you want to try again?">
         <source>You made %s errors. You have %s attempts left. Do you want to try again?</source>
-        <target>~%s errore izan dituzu. %s saiakera gelditzen zaizkizu. Saiatu nahi duzu berriro?</target>
+        <target>%  errore izan dituzu. % saiakera gelditzen zaizkizu. Saiatu nahi duzu berriro?</target>
       </trans-unit>
       <trans-unit id="b4mkkc2" resname="You must close the edited questionnaire before saving the activity.">
         <source>You must close the edited questionnaire before saving the activity.</source>
-        <target>~Aldatzen ari zaren inkesta gorde aurretik ixtea behar duzu.</target>
+        <target>Aldatzen ari zaren inkesta gorde aurretik itxi behar duzu.</target>
       </trans-unit>
       <trans-unit id="pwbf29j" resname="YouTube videos cannot be embedded in preview mode. ">
         <source>YouTube videos cannot be embedded in preview mode. </source>
-        <target>~YouTube bideoak ezin dira inbultatu aurrebistetan.</target>
+        <target>YouTube bideoak ezin dira txertatu aurrebista moduan.</target>
       </trans-unit>
       <trans-unit id="6vjgohu" resname="Invalid file content">
         <source>Invalid file content</source>
-        <target>~Fitxategiaren edukia ez da baliozkoa</target>
+        <target>Fitxategiaren edukia ez da baliozkoa</target>
       </trans-unit>
       <trans-unit id="r6lhn8c" resname="Answer type: Single">
         <source>Answer type: Single</source>
-        <target>~Erantzun mota: Bakarra</target>
+        <target>Erantzun mota: Bakarra</target>
       </trans-unit>
       <trans-unit id="chnuave" resname="Answer type: Multiple">
         <source>Answer type: Multiple</source>
-        <target>~Erantzun mota: Anitza</target>
+        <target>Erantzun mota: Anitza</target>
       </trans-unit>
       <trans-unit id="kxc59hh" resname="Suggestion or hint (optional)">
         <source>Suggestion or hint (optional)</source>
-        <target>~Iradokizuna edo pista (aukerakoa)</target>
+        <target>Iradokizuna edo pista (aukerakoa)</target>
       </trans-unit>
       <trans-unit id="c3jzo52" resname="Hint or suggestion for the student">
         <source>Hint or suggestion for the student</source>
-        <target>~Pista edo iradokizuna ikaslearentzat</target>
+        <target>Pista edo iradokizuna ikaslearentzat</target>
       </trans-unit>
       <trans-unit id="774r6q9" resname="Feedback for correct answer (optional)">
         <source>Feedback for correct answer (optional)</source>
-        <target>~Erantzun zuzena emateko iruzkina (aukerakoa)</target>
+        <target>Erantzun zuzenerako iruzkina (aukerakoa)</target>
       </trans-unit>
       <trans-unit id="spxq1j3" resname="Message shown when answer is correct">
         <source>Message shown when answer is correct</source>
